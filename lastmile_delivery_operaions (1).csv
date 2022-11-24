@@ -1,0 +1,881 @@
+,_record_id,_title,_server_updated_at,_created_by,_updated_by,_geometry,_latitude,_longitude,arrival_of_the_freight_vehicle,plates,company_if_visible,visit_purpose,type_of_vehicle,number_of_operators,refrigerated_truck,type_of_cargo,picture_of_the_parked_freight_vehicle,departure_of_the_freight_vehicle,where_was_the_vehicle_parked,while_parked_was_the_engine_running,used_traffic_cone,vehicles_unloading_door,number_of_available_trolleys,serving_customer,garage_blocking,accident,describe_the_accident,noise,traffic_congestion,maximum_number_of_vehicles_in_the_traffic_jam
+0,fa8487b7-f3dc-45b8-898d-8402b7a3f693,"1901 Avenida Rosendo Márquez
+Heroica Puebla de Zaragoza Puebla 72180
+Mexico",2022-11-19 18:08:19 UTC,Juan Carlos Bejarano Moreno,Juan Carlos Bejarano Moreno,SRID=4326;POINT(-98.2339495 19.0534049),19.0534049,-98.2339495,12:03,S0 30 997,Marinela,Sales (usually small car or motorcycle),Pick-up,1,yes,"Bakery (bread, cookies, cakes, etc.)",1 Photo,12:11,Street - next to the curbside,no,no,Rear,0,1.0,no,no,2.0,no,no,3.0
+1,1add0a6e-3be7-40c9-bd86-a19094f1ff5b,"Heroica Puebla de Zaragoza Puebla 72180
+Mexico",2022-11-19 18:08:19 UTC,Juan Carlos Bejarano Moreno,Juan Carlos Bejarano Moreno,SRID=4326;POINT(-98.2339006 19.0535269),19.0535269,-98.2339006,23:53,SK 92 157,Tutto bocadeli,Delivery,Pick-up,2,yes,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,12:05,Store's garage,no,no,Rear,0,1.0,no,no,2.0,no,no,3.0
+2,0263ea8e-4585-4232-8547-ea2d8d17a11d,"701-A Calle 29 Sur
+Heroica Puebla de Zaragoza Puebla 72160
+Mexico",2022-11-19 17:37:10 UTC,Juan Carlos Bejarano Moreno,Juan Carlos Bejarano Moreno,SRID=4326;POINT(-98.220902 19.0523632),19.0523632,-98.220902,11:34,SP 09 736,Carnes premium sa de cv,Delivery,Light truck or Van,2,yes,"Meat (beef, poultry, pork, seafood, etc.)",2 Photos,11:45,Street - next to the curbside,no,no,Rear,0,1.0,yes,no,2.0,no,no,3.0
+3,e77530c6-1248-4a46-943b-8e52431d2917,"309 Calle 29 Sur
+Heroica Puebla de Zaragoza Puebla 72160
+Mexico",2022-11-19 17:24:17 UTC,Juan Carlos Bejarano Moreno,Juan Carlos Bejarano Moreno,SRID=4326;POINT(-98.2205203 19.0533108),19.0533108,-98.2205203,11:00,SM 19 713,No disponible ,Delivery,Pick-up,2,yes,"Alcoholic beverages (beer, liquor, etc.)",3 Photos,11:27,Street - next to the curbside,no,no,Rear,1,1.0,no,no,2.0,no,no,3.0
+4,c688c1d1-6ec2-44ad-9eda-d5567a571ece,"123 Calle Tlaxco
+Heroica Puebla de Zaragoza Puebla 72160
+Mexico",2022-11-19 17:12:20 UTC,Juan Carlos Bejarano Moreno,Juan Carlos Bejarano Moreno,SRID=4326;POINT(-98.2203338 19.0549013),19.0549013,-98.2203338,11:05,HEA 703C,José Luis Hernández Valdez Fletes,Delivery,SUV,3,no,Muebles,2 Photos,11:20,On top of a sidewalk,no,no,Rear,0,1.0,no,no,2.0,no,no,3.0
+5,8445c284-9bb4-4c69-bb82-dca18fb686be,"719 Chipilo
+Heroica Puebla de Zaragoza Puebla 72160
+Mexico",2022-11-19 17:01:19 UTC,Juan Carlos Bejarano Moreno,Juan Carlos Bejarano Moreno,SRID=4326;POINT(-98.2205726 19.0515491),19.0515491,-98.2205726,10:54,XA 53 285,No disponible ,Sales & delivery,Pick-up,1,no,"Non-alcoholic beverages (water, soda, etc.)",2 Photos,11:03,Street - next to the curbside,no,no,Rear,0,1.0,no,no,2.0,no,no,3.0
+6,3f2d5458-be92-4426-bd72-a066fc6b1a02,"1914 Avenida Rosendo Márquez
+Heroica Puebla de Zaragoza Puebla 72180
+Mexico",2022-11-19 16:30:35 UTC,Juan Carlos Bejarano Moreno,Juan Carlos Bejarano Moreno,SRID=4326;POINT(-98.234267 19.0527507),19.0527507,-98.234267,10:22,SN 91 675,5,Delivery,SUV,1,no,"Bakery (bread, cookies, cakes, etc.)",1 Photo,10:35,Store's garage,no,no,Rear,0,1.0,no,no,2.0,no,no,3.0
+7,4e97c5dc-fd90-4ca3-b18b-a7efce18d15c,"3306 Avenida 29 Poniente
+Heroica Puebla de Zaragoza Puebla 72400
+México",2022-11-19 02:39:06 UTC,Gustavo Manzanilla,Gustavo Manzanilla,SRID=4326;POINT(-98.2295282185 19.0459163426),19.0459163426,-98.2295282185,13:50,Mpw2573,No logo,Delivery,Pick-up,1,no,grocery,1 Photo,14:10,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+8,51049021-632d-431e-8571-2b343c1bac2b,"2701 Calle 31 Sur
+Heroica Puebla de Zaragoza Puebla 72400
+México",2022-11-19 02:39:06 UTC,Gustavo Manzanilla,Gustavo Manzanilla,SRID=4326;POINT(-98.2272607461 19.0457848198),19.0457848198,-98.2272607461,13:51,Tzr5232,Coca cola,Sales (usually small car or motorcycle),Automobile,1,no,tomar pedido,2 Photos,13:59,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+9,07f654ed-9654-4dbf-bcbb-6d75b632802a,"2969 Avenida 27 Poniente
+Heroica Puebla de Zaragoza Puebla 72400
+México",2022-11-19 02:39:04 UTC,Gustavo Manzanilla,Gustavo Manzanilla,SRID=4326;POINT(-98.2269284874 19.0456596354),19.0456596354,-98.2269284874,12:48,Tzr5232,Coca cola,Sales (usually small car or motorcycle),Automobile,1,no,"ninguno, solo tomar pedido",2 Photos,13:00,Street - next to the curbside,no,no,Side,0,4.0,no,no,2.0,no,no,3.0
+10,a6fc31bd-e552-4b6e-891d-8b945c25bc01,"2515 Calle 29 Sur
+Heroica Puebla de Zaragoza Puebla 72400
+México",2022-11-19 02:39:04 UTC,Gustavo Manzanilla,Gustavo Manzanilla,SRID=4326;POINT(-98.2254264504 19.0452653831),19.0452653831,-98.2254264504,13:45,A6764a,Regio gas,Delivery,Heavy duty truck,2,no,gas,1 Photo,13:59,Street - next to the curbside,yes,yes,Rear,0,1.0,yes,no,2.0,yes,no,3.0
+11,7125667e-6a8c-47de-aac3-8f58f4dd3fd3,"2901 Avenida 27 Poniente
+Heroica Puebla de Zaragoza Puebla 72400
+México",2022-11-19 02:39:03 UTC,Gustavo Manzanilla,Gustavo Manzanilla,SRID=4326;POINT(-98.2257308811 19.0451332259),19.0451332259,-98.2257308811,14:21,Ju02115,no logo,Delivery,Pick-up,1,no,Produce (fruits & vegetables),3 Photos,14:49,Street - next to the curbside,no,no,Rear,1,1.0,no,no,2.0,no,no,3.0
+12,88650dc7-2e47-44d5-ba5f-bcc885d034de,"2851 Avenida 27 Poniente
+Heroica Puebla de Zaragoza Puebla 72400
+México",2022-11-19 02:39:03 UTC,Gustavo Manzanilla,Gustavo Manzanilla,SRID=4326;POINT(-98.2255736366 19.0450188164),19.0450188164,-98.2255736366,15:29,Yr2673,No logo,Sales (usually small car or motorcycle),Automobile,1,no,"Bakery (bread, cookies, cakes, etc.)",1 Photo,15:45,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,yes,25.0
+13,bc8d1ea4-035b-4667-9fc4-05b27cef4721,"2507 Calle 29 Sur
+Heroica Puebla de Zaragoza Puebla 72400
+México",2022-11-19 02:39:03 UTC,Gustavo Manzanilla,Gustavo Manzanilla,SRID=4326;POINT(-98.2250211015 19.0448191542),19.0448191542,-98.2250211015,15:20,Sp12805,"Los volcanes (entregando cemento a bloquera), bajaron con montacargas",Delivery,Heavy duty truck,2,no,cemento,1 Photo,16:45,Street - next to the curbside,no,yes,Side,1,4.0,no,no,2.0,yes,yes,20.0
+14,b36fa68a-85e1-4d2c-a491-551c219621de,"2713 Avenida 27 Poniente
+Heroica Puebla de Zaragoza Puebla 72410
+México",2022-11-19 02:39:02 UTC,Gustavo Manzanilla,Gustavo Manzanilla,SRID=4326;POINT(-98.2247220352 19.0445684669),19.0445684669,-98.2247220352,17:25,97ap4g,Eristain,Delivery,Heavy duty truck,2,no,motor,2 Photos,17:50,Street - next to the curbside,no,no,Rear,2,4.0,no,no,2.0,yes,no,3.0
+15,90f9290c-69f9-47d8-ab90-7a03ea91ed7d,"2325 Avenida 33 Poniente
+Heroica Puebla de Zaragoza Puebla
+México",2022-11-19 02:39:02 UTC,Gustavo Manzanilla,Gustavo Manzanilla,SRID=4326;POINT(-98.2233765721 19.0408173025),19.0408173025,-98.2233765721,16:08,Nsl5626,No visible logos,Delivery,Pick-up,3,no,car glass,2 Photos,16:20,Street - next to the curbside,no,no,Side,0,4.0,no,no,2.0,no,no,3.0
+16,de042bd7-551e-4e19-bd36-762ebe1d74eb,"3111B Calle 25 Sur
+Heroica Puebla de Zaragoza Puebla
+México",2022-11-19 02:39:02 UTC,Gustavo Manzanilla,Gustavo Manzanilla,SRID=4326;POINT(-98.2237172127 19.0410153849),19.0410153849,-98.2237172127,17:04,Sn23230,Gas uribe,Sales & delivery,Heavy duty truck,2,no,Gas,1 Photo,17:20,Double lane,yes,no,Rear,0,4.0,no,no,2.0,yes,yes,15.0
+17,4e926dbb-8c46-4e9a-8c0e-2bbc59849beb,"2511 Avenida 33 Poniente
+Heroica Puebla de Zaragoza Puebla
+México",2022-11-19 02:39:01 UTC,Gustavo Manzanilla,Gustavo Manzanilla,SRID=4326;POINT(-98.2244373858 19.0413243929),19.0413243929,-98.2244373858,14:06,Sn91376,Estatega,Delivery,Light truck or Van,1,no,tela,2 Photos,14:21,Street - next to the curbside,no,no,Side,0,4.0,yes,no,2.0,no,no,3.0
+18,ef493863-cd1c-462c-bbcb-2beda5661ab5,"2527 Avenida 33 Poniente
+Heroica Puebla de Zaragoza Puebla
+México",2022-11-19 02:39:01 UTC,Gustavo Manzanilla,Gustavo Manzanilla,SRID=4326;POINT(-98.2250670344 19.0416283295),19.0416283295,-98.2250670344,12:53,Xb62636,Putificadora ander ,Sales & delivery,Pick-up,2,no,"Non-alcoholic beverages (water, soda, etc.)",2 Photos,13:05,Street - next to the curbside,no,no,Rear,0,1.0,no,no,2.0,no,no,3.0
+19,eae93b98-524f-409f-9756-95f39bbb9c49,"2713 Avenida 33 Poniente
+Heroica Puebla de Zaragoza Puebla
+México",2022-11-19 02:39:00 UTC,Gustavo Manzanilla,Gustavo Manzanilla,SRID=4326;POINT(-98.225950487 19.0420412893),19.0420412893,-98.225950487,17:30,Uhe480a,Automotriz toledo,Delivery,Automobile,1,no,refacciones,1 Photo,17:50,Street - next to the curbside,no,no,Rear,0,4.0,yes,no,2.0,yes,no,3.0
+20,37030d0d-4904-493f-9d81-9582bc8b377c,"2907 Avenida 33 Poniente
+Heroica Puebla de Zaragoza Puebla 72400
+México",2022-11-19 02:39:00 UTC,Gustavo Manzanilla,Gustavo Manzanilla,SRID=4326;POINT(-98.2277365029 19.0429118927),19.0429118927,-98.2277365029,16:43,Wzv6303,Kyocera fm,Delivery,Pick-up,1,no,"Paper Goods (paper towels, toilet paper, etc.)",1 Photo,16:55,Street - next to the curbside,yes,no,Rear,1,4.0,no,no,2.0,no,no,3.0
+21,dcd47323-4462-443d-a099-2fc26b9fd2f0,"Heroica Puebla de Zaragoza Puebla 72400
+México",2022-11-19 02:39:00 UTC,Gustavo Manzanilla,Gustavo Manzanilla,SRID=4326;POINT(-98.2274310663 19.041807712),19.041807712,-98.2274310663,15:20,6554p # interno DANONE,DANONE a miscelanea maty,Sales & delivery,Automobile,2,no,"Dairy (milk, cheese, etc.)",3 Photos,15:45,Street - next to the curbside,no,no,Rear,0,1.0,no,no,2.0,no,no,3.0
+22,f9e1d544-7ee7-484d-aa3e-1697dc481154,"Avenida 35 Poniente
+Heroica Puebla de Zaragoza Puebla 72400
+México",2022-11-19 02:38:59 UTC,Gustavo Manzanilla,Gustavo Manzanilla,SRID=4326;POINT(-98.2272677869 19.0417417905),19.0417417905,-98.2272677869,16:10,34rb4u,Fotografía el vergel,Delivery,Light truck or Van,1,no,plastic boxes (equipment) and  cardboxes,1 Photo,17:30,Street - next to the curbside,no,no,Side,0,4.0,no,no,2.0,no,no,3.0
+23,be1e365d-5a58-44e6-88c5-1db9a4350941,"3502 Calle 27 Sur
+Heroica Puebla de Zaragoza Puebla
+México",2022-11-19 02:38:59 UTC,Gustavo Manzanilla,Gustavo Manzanilla,SRID=4326;POINT(-98.2258056477 19.0408920985),19.0408920985,-98.2258056477,12:21,454zys,No visible,Sales (usually small car or motorcycle),Pick-up,1,no,"Non-alcoholic beverages (water, soda, etc.)",3 Photos,12:30,Street - next to the curbside,no,no,Side,0,1.0,yes,no,2.0,no,no,3.0
+24,02397e43-4829-4741-a048-156fe5c259f2,"3311 Calle 27 Sur
+Heroica Puebla de Zaragoza Puebla
+México",2022-11-19 02:38:58 UTC,Gustavo Manzanilla,Gustavo Manzanilla,SRID=4326;POINT(-98.2257412747 19.0412074453),19.0412074453,-98.2257412747,12:14,Muj3826,Articulos de hule puebla,Sales & delivery,Heavy duty truck,2,no,articulos de hule,2 Photos,13:02,Street - next to the curbside,no,no,Rear,1,1.0,yes,no,2.0,no,no,3.0
+25,d7662c2b-58c3-4999-8655-c998473418a9,"Ciclovía 2 Sur
+Puebla de Zaragoza PUE 72000
+MX",2022-11-18 20:48:37 UTC,Uriel Bonilla,Uriel Bonilla,SRID=4326;POINT(-98.1963503167 19.0423183191),19.0423183191,-98.1963503167,16:22,LF42722,Mr.lucky,Delivery,Heavy duty truck,3,yes,"Bakery (bread, cookies, cakes, etc.),Produce (fruits & vegetables)",3 Photos,16:25,Street - next to the curbside,yes,no,Rear,2,1.0,no,no,2.0,yes,yes,3.0
+26,bc663d18-afb0-4d91-8559-83cf26034885,"311-A Avenida 8 Poniente
+Puebla PUE 72000
+MX",2022-11-18 17:24:35 UTC,Juan Chimas,Juan Chimas,SRID=4326;POINT(-98.1993785199 19.0487261062),19.0487261062,-98.1993785199,14:57,SN-65-030,Entorno impresión ,Delivery,Light truck or Van,1,no,"Paper Goods (paper towels, toilet paper, etc.)",1 Photo,15:12,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+27,31f1dd29-2bc7-4ec8-bd00-fb3228a642ee,"8 Avenida 8 Oriente
+Puebla PUE 72000
+MX",2022-11-18 17:24:35 UTC,Juan Chimas,Juan Chimas,SRID=4326;POINT(-98.1964384994 19.0473490037),19.0473490037,-98.1964384994,15:34,SP-14-360,Pepsi,Sales & delivery,Light truck or Van,3,no,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,15:45,Street - next to the curbside,no,no,Rear,2,4.0,no,no,2.0,no,no,3.0
+28,d03b13f6-adec-4fda-896b-c5ede653bfdd,"80C Avenida 5 de Mayo
+Puebla PUE 72000
+MX",2022-11-18 17:24:34 UTC,Juan Chimas,Juan Chimas,SRID=4326;POINT(-98.1963600948 19.0480351673),19.0480351673,-98.1963600948,15:20,SP-13-118,El patio de san Luis ,Sales & delivery,Light truck or Van,2,yes,"Bakery (bread, cookies, cakes, etc.),Meat (beef, poultry, pork, seafood, etc.)",1 Photo,15:39,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+29,6008054f-10c5-411d-8458-2af87ced791f,"7–25 Avenida 10 Oriente
+Puebla PUE 72000
+MX",2022-11-18 17:24:34 UTC,Juan Chimas,Juan Chimas,SRID=4326;POINT(-98.1963129156 19.0481925477),19.0481925477,-98.1963129156,15:18,SP-14-561,Epura,Delivery,Light truck or Van,2,no,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,15:28,Double lane,no,no,Side,1,4.0,no,no,2.0,no,no,3.0
+30,7cf75ce8-0895-4b15-b5e0-552d0f60ed6b,"117 Avenida 10 Poniente
+Puebla PUE 72000
+MX",2022-11-18 17:24:33 UTC,Juan Chimas,Juan Chimas,SRID=4326;POINT(-98.1970228025 19.0485133831),19.0485133831,-98.1970228025,15:23,SN-57-035,J&T Express,Delivery,Light truck or Van,2,no,Electronics ,1 Photo,15:47,Street - next to the curbside,no,no,Rear,1,4.0,no,no,2.0,no,no,3.0
+31,7d18b4c5-8c81-49f8-9371-0b53bcf2bf69,"111 Avenida 10 Poniente
+Puebla PUE 72000
+MX",2022-11-18 17:24:32 UTC,Juan Chimas,Juan Chimas,SRID=4326;POINT(-98.1972448156 19.04869169),19.04869169,-98.1972448156,15:21,XB-87-421,5,Delivery,Pick-up,1,no,Nonfood,1 Photo,15:32,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+32,fdd031eb-3abe-4f2f-813c-87d0a56814c5,"315-D Avenida 10 Poniente
+Puebla PUE 72000
+MX",2022-11-18 17:24:31 UTC,Juan Chimas,Juan Chimas,SRID=4326;POINT(-98.1989864913 19.049461945),19.049461945,-98.1989864913,15:16,SN-64-943,Grupo excelencia diagonal,Delivery,Pick-up,1,no,Nonfood,1 Photo,15:31,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+33,9498f27f-2d1b-458a-bfdc-3923a32e3b2d,"514 Avenida 8 Poniente
+Puebla PUE 72000
+MX",2022-11-18 17:24:30 UTC,Juan Chimas,Juan Chimas,SRID=4326;POINT(-98.2009965555 19.0496978956),19.0496978956,-98.2009965555,15:07,SN-67-149,5,Delivery,Pick-up,3,no,Nonfood,1 Photo,15:18,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+34,570c3951-b85e-4c38-afdd-55480cda33d9,"506 Avenida 8 Poniente
+Puebla PUE 72000
+MX",2022-11-18 17:24:30 UTC,Juan Chimas,Juan Chimas,SRID=4326;POINT(-98.2003566075 19.0493503362),19.0493503362,-98.2003566075,14:43,SN-64-738,Gas oriente,Delivery,Pick-up,1,no,Nonfood,1 Photo,15:01,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,yes,3.0
+35,46d1429d-cc2d-44f8-9adc-5e5fc8da3a60,"305 Avenida 8 Poniente
+Puebla PUE 72000
+MX",2022-11-18 17:24:29 UTC,Juan Chimas,Juan Chimas,SRID=4326;POINT(-98.1993302403 19.0487777287),19.0487777287,-98.1993302403,14:54,PEP-75-70,Carrocería chicano ,Delivery,Light truck or Van,2,no,Nonfood,2 Photos,14:56,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,yes,no,3.0
+36,58d12d48-83aa-4fe0-b42a-9425acf5c134,"314 Avenida 8 Poniente
+Puebla PUE 72000
+MX",2022-11-18 17:24:29 UTC,Juan Chimas,Juan Chimas,SRID=4326;POINT(-98.1990660354 19.0485562837),19.0485562837,-98.1990660354,14:40,LE-61-349,Cooperativo de autotransporte express de carga,Delivery,Light truck or Van,2,no,Nonfood,1 Photo,15:58,Street - next to the curbside,yes,no,Rear,0,4.0,no,no,2.0,yes,no,3.0
+37,71baf2d1-fbb8-4e3b-93b6-e540de8afb3b,"801 Calle 3 Norte
+Puebla PUE 72000
+MX",2022-11-18 17:24:28 UTC,Juan Chimas,Juan Chimas,SRID=4326;POINT(-98.1981829238 19.0485926937),19.0485926937,-98.1981829238,14:43,86-AY-6C,Feljara ,Delivery,Heavy duty truck,1,no,Nonfood,1 Photo,15:05,Street - next to the curbside,no,no,Rear,1,4.0,no,no,2.0,no,no,3.0
+38,3720092f-9fc9-4038-91da-7d9f22ca8cea,"601 2 Calle 5 Norte
+Puebla PUE 72000
+MX",2022-11-18 17:24:27 UTC,Juan Chimas,Juan Chimas,SRID=4326;POINT(-98.2001090737 19.0486103052),19.0486103052,-98.2001090737,14:27,XXA741B,Coca col,Sales (usually small car or motorcycle),Automobile,1,no,Nonfood,1 Photo,14:40,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+39,b61bc960-9ac5-47fc-9256-1198d3cf89f2,"804 Calle 4 Norte
+Puebla PUE 72000
+MX",2022-11-18 17:24:27 UTC,Juan Chimas,Juan Chimas,SRID=4326;POINT(-98.1936070696 19.0463827271),19.0463827271,-98.1936070696,16:37,SN-23-119,5,Delivery,Pick-up,2,no,"Dairy (milk, cheese, etc.)",1 Photo,16:45,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+40,6cf23693-3c91-46a2-a67c-7c613ea1d0ed,"408 Calle 4 Norte
+Puebla PUE 72000
+MX",2022-11-18 17:24:26 UTC,Juan Chimas,Juan Chimas,SRID=4326;POINT(-98.1943559089 19.0449532354),19.0449532354,-98.1943559089,16:11,LE-32-848,Jumex,Delivery,Light truck or Van,2,yes,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,16:13,Street - next to the curbside,yes,no,Rear,0,4.0,no,no,2.0,yes,no,3.0
+41,0370c14a-cc5f-4f50-8c3b-d17d2eea8bb2,"101 Avenida 14 Poniente
+Heroica Puebla de Zaragoza Puebla 72000
+México",2022-11-17 21:29:12 UTC,Sergio Licea,Sergio Licea,SRID=4326;POINT(-98.1956955045 19.0498619774),19.0498619774,-98.1956955045,15:17,LE46801,Bonafont,Delivery,Light truck or Van,1,no,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,15:25,Double lane,no,no,Rear,0,4.0,no,no,2.0,no,yes,5.0
+42,06ad670f-c727-4cee-86d4-770cb596d165,"210 Avenida 8 Oriente
+Heroica Puebla de Zaragoza Puebla 72000
+México",2022-11-17 21:17:27 UTC,Sergio Licea,Sergio Licea,SRID=4326;POINT(-98.1946175918 19.0464522572),19.0464522572,-98.1946175918,15:06,NKU9817,5,Delivery,SUV,3,no,Nonfood,1 Photo,15:24,Street - next to the curbside,no,no,Rear,0,4.0,yes,no,2.0,no,no,3.0
+43,a22c6515-ba79-4f8a-a2d5-aeb489e44950,"217 Avenida 8 Oriente
+Heroica Puebla de Zaragoza Puebla 72000
+México",2022-11-17 21:04:10 UTC,Sergio Licea,Sergio Licea,SRID=4326;POINT(-98.1942880154 19.0461999877),19.0461999877,-98.1942880154,14:58,SJ63123,Cocacola,Delivery,Light truck or Van,1,no,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,15:01,Dedicated unloading area (Bay),no,no,Side,2,4.0,no,no,2.0,no,no,3.0
+44,19c02be3-2bc9-4800-9eea-c4d07e978404,"112 Avenida 2 Poniente
+Puebla de Zaragoza PUE 72000
+MX",2022-11-17 18:39:11 UTC,Edward González,Edward González,SRID=4326;POINT(-98.1984943897 19.0454041955),19.0454041955,-98.1984943897,11:00,SN34143,5,Delivery,Light truck or Van,2,no,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,11:10,Public parking lot,yes,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+45,60504c88-29ea-4323-8b2d-9fa17ef5f635,"307 Avenida 3 Poniente
+Puebla de Zaragoza PUE 72000
+MX",2022-11-17 18:39:10 UTC,Edward González,Edward González,SRID=4326;POINT(-98.2011457533 19.0447310492),19.0447310492,-98.2011457533,10:55,XB3067A,CocaCola,Delivery,Light truck or Van,1,no,"Non-alcoholic beverages (water, soda, etc.)",2 Photos,11:00,Public parking lot,no,no,Side,1,4.0,no,no,2.0,no,no,3.0
+46,36752ecd-6695-4426-b433-31858a894c14,"301 Calle 7 Sur
+Puebla de Zaragoza PUE 72000
+MX",2022-11-17 18:39:10 UTC,Edward González,Edward González,SRID=4326;POINT(-98.2036288083 19.0459711701),19.0459711701,-98.2036288083,10:38,SW3804D,5,Delivery,Light truck or Van,2,no,Nonfood,1 Photo,10:43,Public parking lot,yes,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+47,53da6173-8944-4606-ab4f-c34884d9b268,"508 Calle 3 Sur
+Puebla PUE 72000
+MX",2022-11-17 17:51:03 UTC,Emilio Garza,Emilio Garza,SRID=4326;POINT(-98.2014234753 19.0430761971),19.0430761971,-98.2014234753,11:25,XB-3067-A,Cocacola ,Sales & delivery,Automobile,1,no,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,11:45,Street - next to the curbside,no,no,Side,0,4.0,no,no,2.0,no,no,3.0
+48,c0159a7f-3307-44cd-8bdd-9ac648160283,"303 Calle 3 Sur
+Puebla PUE 72000
+MX",2022-11-17 17:35:31 UTC,Emilio Garza,Emilio Garza,SRID=4326;POINT(-98.2008047035 19.0441553907),19.0441553907,-98.2008047035,11:32,Sp38651,Gamesa,Delivery,Light truck or Van,2,no,Chips,1 Photo,11:34,Street - next to the curbside,no,no,Side,1,4.0,no,no,2.0,no,no,3.0
+49,26dad93a-a5ef-4a55-a3cd-b3ba4c15ad8c,"137 Avenida 3 Oriente
+Puebla PUE 72000
+MX",2022-11-17 17:25:50 UTC,José Oropeza,José Oropeza,SRID=4326;POINT(-98.2001068359 19.0441607415),19.0441607415,-98.2001068359,11:24,SP-283-40,5,Delivery,Pick-up,2,no,"Paper Goods (paper towels, toilet paper, etc.)",1 Photo,11:35,Street - next to the curbside,no,no,Rear,1,4.0,no,no,2.0,no,no,3.0
+50,100a270e-9bf0-4a9a-a5ce-911056ae4e83,"47 Calle Rincón de Londrés
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-17 16:52:20 UTC,José López,José López,SRID=4326;POINT(-98.2662270405 19.0040191636),19.0040191636,-98.2662270405,10:49,SN-52-660,Tudogar ,Delivery,Light truck or Van,2,no,House Products ,1 Photo,11:30,Public parking lot,no,no,Rear,0,1.0,no,no,2.0,no,no,3.0
+51,ac9be72f-ebd7-44c5-a0db-5be8a7aeb5d1,"47 Calle Rincón de Londrés
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-17 16:52:04 UTC,Mariana Sáenz Gómez Ortigoza,Mariana Sáenz Gómez Ortigoza,SRID=4326;POINT(-98.2662111042 19.0040275612),19.0040275612,-98.2662111042,09:45,XXC-646-B,La Magenta ,Delivery,Light truck or Van,1,no,Flowers ,1 Photo,10:30,Public parking lot,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+52,74bbc69a-f57f-4d6b-9653-83f353fc3dd8,"San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-17 16:46:04 UTC,José López,José López,SRID=4326;POINT(-98.2747797669 18.9992453763),18.9992453763,-98.2747797669,10:28,F69TR,Lulus ,Delivery,Motorcycle,1,no,"Meat (beef, poultry, pork, seafood, etc.)",1 Photo,10:44,Public parking lot,no,no,Rear,0,1.0,no,no,2.0,no,no,3.0
+53,b4be0a5c-be2b-4d61-815f-b7239e6adf3a,"Boulevard Interamericano
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-17 16:41:27 UTC,Mariana Sáenz Gómez Ortigoza,Mariana Sáenz Gómez Ortigoza,SRID=4326;POINT(-98.2745818966 18.9995101317),18.9995101317,-98.2745818966,10:20,SM-67-395,Corona ,Delivery,Heavy duty truck,1,yes,"Alcoholic beverages (beer, liquor, etc.)",1 Photo,10:40,Street - next to the curbside,no,no,Rear,1,1.0,no,no,2.0,no,no,3.0
+54,39bad6d5-4754-4e55-8389-1c8d2d5d4f2f,"Boulevard Interamericano
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-17 16:34:31 UTC,José López,José López,SRID=4326;POINT(-98.2748416839 18.9996357615),18.9996357615,-98.2748416839,10:32,NW-5910-B,Angelopolis Clínica Veterinaria ,Delivery,Light truck or Van,1,no,Animal Products ,2 Photos,10:50,Public parking lot,no,no,Rear,0,1.0,no,no,2.0,no,no,3.0
+55,6bf74a31-d131-4b8d-9c7a-7776273b13e4,"511 Avenida 6 Poniente
+Heroica Puebla de Zaragoza Puebla 72000
+México",2022-11-17 00:49:30 UTC,Sergio Licea,Sergio Licea,SRID=4326;POINT(-98.2010471821 19.0486551619),19.0486551619,-98.2010471821,15:10,SL52856,5,Delivery,Light truck or Van,1,no,Nonfood,1 Photo,15:29,Double lane,yes,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+56,4a271fbd-9b74-4b62-9e02-24a6c2445033,"324 Avenida 8 Poniente
+Puebla de Zaragoza PUE 72000
+MX",2022-11-16 22:36:37 UTC,Sandra Carreón,Sandra Carreón,SRID=4326;POINT(-98.1995449039 19.048947435),19.048947435,-98.1995449039,10:37,SP14355,Pepsi,Delivery,Light truck or Van,1,yes,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,10:49,Double lane,no,no,Side,0,1.0,no,no,2.0,no,no,3.0
+57,aa5ee741-91f7-4590-97ad-d8d99902bc4b,"403–407 Calle 5 Norte
+Puebla de Zaragoza PUE 72000
+MX",2022-11-16 22:36:36 UTC,Sandra Carreón,Sandra Carreón,SRID=4326;POINT(-98.200733699 19.0476399707),19.0476399707,-98.200733699,10:35,XB30634,Coca-Cola,Delivery,Light truck or Van,2,no,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,10:41,Street - next to the curbside,yes,no,Side,2,4.0,no,no,2.0,no,no,3.0
+58,5a837c8c-6b79-4c6a-b3c2-1e720fb53a11,"304 Calle 7 Sur
+Puebla de Zaragoza PUE 72000
+MX",2022-11-16 22:36:36 UTC,Sandra Carreón,Sandra Carreón,SRID=4326;POINT(-98.2036237792 19.0457916772),19.0457916772,-98.2036237792,10:02,SP40504,5,Delivery,Light truck or Van,1,no,Produce (fruits & vegetables),1 Photo,10:27,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+59,4ac38e6b-7487-4322-b290-0a00e9ba960f,"532 Avenida 3 Poniente
+Puebla de Zaragoza PUE 72000
+MX",2022-11-16 22:36:35 UTC,Sandra Carreón,Sandra Carreón,SRID=4326;POINT(-98.2033609227 19.0459865146),19.0459865146,-98.2033609227,10:18,SN34670,5,Sales & delivery,Light truck or Van,1,no,Nonfood,1 Photo,10:35,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+60,15a02836-815f-419f-8ff1-06b66680d5c4,"533 Avenida Reforma
+Puebla de Zaragoza PUE 72000
+MX",2022-11-16 22:36:35 UTC,Sandra Carreón,Sandra Carreón,SRID=4326;POINT(-98.2026356366 19.0463860799),19.0463860799,-98.2026356366,09:44,XD5274A,Barcel ,Delivery,Light truck or Van,1,no,Frituras ,1 Photo,10:12,Street - next to the curbside,yes,no,Rear,1,1.0,no,no,2.0,no,no,3.0
+61,17ce0639-0ded-4924-88ba-08bac0129bd8,"701 Avenida 6 Poniente
+Heroica Puebla de Zaragoza Puebla 72090
+México",2022-11-16 21:25:29 UTC,Sergio Licea,Sergio Licea,SRID=4326;POINT(-98.2020486519 19.0491904338),19.0491904338,-98.2020486519,15:07,SJ63123,Cocacola,Delivery,Light truck or Van,2,no,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,15:24,Dedicated unloading area (Bay),no,no,Side,2,4.0,no,no,2.0,no,no,3.0
+62,c7eb8345-06aa-40ab-9ae9-71ffb3c0ad08,"201 Calle 5 Norte
+Cholula Puebla 72760
+Mexico",2022-11-16 21:02:21 UTC,Hiram Jiménez,Hiram Jiménez,SRID=4326;POINT(-98.3096287 19.0642236),19.0642236,-98.3096287,17:01,SN30728,Coca cola ,Delivery,Heavy duty truck,2,no,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,17:09,Street - next to the curbside,no,no,Side,2,4.0,no,no,2.0,yes,no,3.0
+63,4a4535e9-a7cf-4af6-861d-1264d8cdb418,"1-17 Calle Tonanzintla
+Heroica Puebla de Zaragoza Puebla 72160
+México",2022-11-16 17:52:12 UTC,Luis Gerardo Ramírez Lastra,Luis Gerardo Ramírez Lastra,SRID=4326;POINT(-98.2297245 19.0609536),19.0609536,-98.2297245,11:05,SM50071,5,Delivery,Light truck or Van,2,no,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,11:10,Street - next to the curbside,no,no,Side,1,4.0,yes,no,2.0,no,no,3.0
+64,114dc5aa-4af1-462c-a2f3-8dc5b5cd65b6,"304 Calle 5 Sur
+Heroica Puebla de Zaragoza Puebla 72000
+México",2022-11-16 17:49:25 UTC,Sergio Licea,Sergio Licea,SRID=4326;POINT(-98.2021663338 19.0450400503),19.0450400503,-98.2021663338,11:38,XA1450A,Cocacola,Delivery,Light truck or Van,1,no,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,11:49,Dedicated unloading area (Bay),yes,no,Side,2,4.0,no,no,2.0,no,no,3.0
+65,c7d4b99e-c4f8-40cb-bc83-851c5d796b20,"9 Calle Tonanzintla
+Puebla de Zaragoza PUE 72160
+MX",2022-11-16 17:09:12 UTC,Jorge Alberto Ostorga Flores,Jorge Alberto Ostorga Flores,SRID=4326;POINT(-98.2295349626 19.0611708254),19.0611708254,-98.2295349626,11:05,SP27753,La Taquiza,Delivery,SUV,1,no,"Meat (beef, poultry, pork, seafood, etc.)",1 Photo,11:15,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+66,f8fc6a0e-f99c-479a-bce3-cea41629da48,"39 Avenida Teziutlán Sur
+Puebla de Zaragoza PUE 72160
+MX",2022-11-16 17:09:12 UTC,Jorge Alberto Ostorga Flores,Jorge Alberto Ostorga Flores,SRID=4326;POINT(-98.2310728776 19.0595062004),19.0595062004,-98.2310728776,10:47,SP15600,Sabritas,Delivery,Light truck or Van,1,no,"Bakery (bread, cookies, cakes, etc.)",1 Photo,11:05,Street - next to the curbside,no,no,Rear,2,4.0,no,no,2.0,no,no,3.0
+67,a2851ea1-27d0-4965-9562-1a62e870aa65,"5A Calle Tonanzintla
+Heroica Puebla de Zaragoza Puebla 72160
+México",2022-11-16 17:08:14 UTC,Luis Gerardo Ramírez Lastra,Luis Gerardo Ramírez Lastra,SRID=4326;POINT(-98.2294891 19.0613224),19.0613224,-98.2294891,11:00,KW57795,Lo Nuestro,Sales & delivery,Light truck or Van,1,no,Para eventos,1 Photo,11:15,Street - next to the curbside,no,no,Rear,1,4.0,no,no,2.0,no,no,3.0
+68,193b3517-7806-490f-9e9d-4c747f4c02ec,"16 Calle Aljojuca
+Heroica Puebla de Zaragoza Puebla 72160
+México",2022-11-16 17:08:14 UTC,Luis Gerardo Ramírez Lastra,Luis Gerardo Ramírez Lastra,SRID=4326;POINT(-98.2309202 19.0616278),19.0616278,-98.2309202,10:42,23AM6F,Selecta,Delivery,Heavy duty truck,1,no,"Bakery (bread, cookies, cakes, etc.)",1 Photo,10:55,Double lane,yes,no,Rear,1,4.0,no,no,2.0,no,no,3.0
+69,32bca3b4-7749-42c1-9615-dfeb982a0d1c,"20B Avenida 3 Poniente
+Heroica Puebla de Zaragoza Puebla 72160
+México",2022-11-16 17:08:13 UTC,Luis Gerardo Ramírez Lastra,Luis Gerardo Ramírez Lastra,SRID=4326;POINT(-98.2301643 19.0592845),19.0592845,-98.2301643,10:45,SP27768,La taquiza,Sales & delivery,Light truck or Van,1,no,"Meat (beef, poultry, pork, seafood, etc.)",1 Photo,10:55,Street - next to the curbside,no,no,Rear,1,4.0,no,no,2.0,no,no,3.0
+70,a5fe2bc6-b900-4374-b5c6-d5a9b4b8ffdd,"40 Calle Tepeaca
+Heroica Puebla de Zaragoza Puebla 72160
+México",2022-11-16 17:08:13 UTC,Luis Gerardo Ramírez Lastra,Luis Gerardo Ramírez Lastra,SRID=4326;POINT(-98.2293531 19.058739),19.058739,-98.2293531,10:38,LB92995,Danone,Delivery,Light truck or Van,1,yes,"Dairy (milk, cheese, etc.)",1 Photo,10:44,Street - next to the curbside,no,no,Rear,1,4.0,no,no,2.0,no,no,3.0
+71,c7daa64c-f6d0-4a21-8786-d24b831a360d,"19 San Martín Texmelucan
+Heroica Puebla de Zaragoza Puebla 72160
+México",2022-11-16 17:08:12 UTC,Luis Gerardo Ramírez Lastra,Luis Gerardo Ramírez Lastra,SRID=4326;POINT(-98.2281692 19.0596459),19.0596459,-98.2281692,10:40,LC21282,UPS,Delivery,Pick-up,1,no,Nonfood,1 Photo,10:49,Double lane,no,no,Side,1,4.0,no,no,2.0,no,no,3.0
+72,fcb64fcd-1e1f-4318-9029-f9e883192dee,"26 Calle Acatlán
+Heroica Puebla de Zaragoza Puebla 72160
+México",2022-11-16 17:08:12 UTC,Luis Gerardo Ramírez Lastra,Luis Gerardo Ramírez Lastra,SRID=4326;POINT(-98.2262099 19.0586772),19.0586772,-98.2262099,10:23,SP29775,Gamesa,Delivery,Light truck or Van,1,no,"Bakery (bread, cookies, cakes, etc.),Nonfood",1 Photo,10:30,Street - next to the curbside,no,no,Side,1,4.0,no,no,2.0,no,no,3.0
+73,eb0f304a-6a40-4c32-b7f5-43f9c396d1b9,"3A Calle Acatlán
+Heroica Puebla de Zaragoza Puebla 72160
+México",2022-11-16 17:08:11 UTC,Luis Gerardo Ramírez Lastra,Luis Gerardo Ramírez Lastra,SRID=4326;POINT(-98.225884 19.0593673),19.0593673,-98.225884,10:21,SN60903,5,Delivery,Light truck or Van,1,no,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,10:22,Street - next to the curbside,no,no,Rear,0,4.0,yes,no,2.0,no,no,3.0
+74,90bdffb6-a359-49ff-8a0a-30e26876f41d,"Calle 39 Sur
+Heroica Puebla de Zaragoza Puebla 72180
+Mexico",2022-11-16 16:15:50 UTC,Juan Carlos Bejarano Moreno,Juan Carlos Bejarano Moreno,SRID=4326;POINT(-98.2317668 19.0517571),19.0517571,-98.2317668,10:04,XA 1445 A,Coca cola,Delivery,Light truck or Van,2,no,"Non-alcoholic beverages (water, soda, etc.)",2 Photos,10:15,Street - next to the curbside,no,no,Side,2,1.0,yes,no,2.0,no,no,3.0
+75,4df21293-afd9-4dca-ac72-ac482112fcfe,"10 Calle Huauchinango
+Heroica Puebla de Zaragoza Puebla 72160
+México",2022-11-16 16:12:48 UTC,Luis Gerardo Ramírez Lastra,Luis Gerardo Ramírez Lastra,SRID=4326;POINT(-98.2290099 19.0607169),19.0607169,-98.2290099,10:07,LC11378,5,Delivery,Pick-up,1,no,Nonfood,1 Photo,10:15,Street - next to the curbside,yes,no,Rear,1,4.0,no,no,2.0,no,no,3.0
+76,d7da1855-a102-4b24-8e82-de04ee1383f5,"5311-5303 Avenida 3 Poniente
+Heroica Puebla de Zaragoza Puebla 72160
+Mexico",2022-11-16 15:49:03 UTC,Juan Carlos Bejarano Moreno,Juan Carlos Bejarano Moreno,SRID=4326;POINT(-98.2350645 19.061546),19.061546,-98.2350645,09:42,XX54116,Pepsi,Sales & delivery,Heavy duty truck,1,no,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,09:54,Street - next to the curbside,no,no,Side,2,1.0,yes,no,2.0,no,no,3.0
+77,f6fd956e-1a2a-442a-b773-305b8a6f4467,"305 Calle 7 Sur
+Puebla de Zaragoza PUE 72000
+MX",2022-11-16 15:24:17 UTC,Sandra Carreón,Sandra Carreón,SRID=4326;POINT(-98.2039474045 19.0455599176),19.0455599176,-98.2039474045,11:42,SP19462,Gamesa,Delivery,Light truck or Van,1,no,"Bakery (bread, cookies, cakes, etc.)",1 Photo,11:49,Street - next to the curbside,no,no,Side,0,1.0,no,no,2.0,no,no,3.0
+78,8400c9fc-1de7-4c11-a039-d733f863ac82,"532 Avenida 3 Poniente
+Puebla de Zaragoza PUE 72000
+MX",2022-11-16 15:24:16 UTC,Sandra Carreón,Sandra Carreón,SRID=4326;POINT(-98.2033022493 19.0458583458),19.0458583458,-98.2033022493,11:37,SP14360,Pepsi,Delivery,Light truck or Van,2,yes,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,12:58,Street - next to the curbside,no,no,Side,2,1.0,no,no,2.0,no,no,3.0
+79,3f3195c9-a0f9-49ba-be0b-76f3aa633c1f,"105 Calle 5 Sur
+Puebla de Zaragoza PUE 72000
+MX",2022-11-16 15:24:15 UTC,Sandra Carreón,Sandra Carreón,SRID=4326;POINT(-98.2021582872 19.0453674324),19.0453674324,-98.2021582872,10:43,SM15226,Juntos+,Delivery,Light truck or Van,2,no,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,10:58,Street - next to the curbside,no,no,Side,2,1.0,no,no,2.0,no,no,3.0
+80,ba7a0b12-26c8-44e6-a104-853b9faeb4d6,"2 Avenida Teziutlan Norte
+Heroica Puebla de Zaragoza Puebla 72160
+Mexico",2022-11-16 15:17:43 UTC,Juan Carlos Bejarano Moreno,Juan Carlos Bejarano Moreno,SRID=4326;POINT(-98.2240469 19.0551286),19.0551286,-98.2240469,09:00,Si 72112,Panificados angelopolitana,Delivery,Light truck or Van,1,no,"Bakery (bread, cookies, cakes, etc.)",1 Photo,09:18,Street - next to the curbside,no,no,Rear,0,1.0,no,no,2.0,no,no,3.0
+81,3047efc8-8a4f-4ddf-8a16-1dd229a0b543,"224 Teziutlán Sur
+Heroica Puebla de Zaragoza Puebla 72160
+Mexico",2022-11-16 14:04:01 UTC,Juan Carlos Bejarano Moreno,Juan Carlos Bejarano Moreno,SRID=4326;POINT(-98.2248258 19.0537905),19.0537905,-98.2248258,08:01,SM60946,Dilesh,Sales & delivery,Light truck or Van,1,yes,"Dairy (milk, cheese, etc.)",1 Photo,08:27,Street - next to the curbside,yes,no,Rear,0,1.0,no,no,2.0,no,no,3.0
+82,278de912-66b7-4a87-bb1d-027d472b8ea1,"3107B Calle 31 Sur
+Heroica Puebla de Zaragoza Puebla 72400
+México",2022-11-16 02:55:53 UTC,Martin Luna,Martin Luna,SRID=4326;POINT(-98.228491 19.0435952),19.0435952,-98.228491,12:55,0,5,Delivery,Motorcycle,1,no,"Bakery (bread, cookies, cakes, etc.)",1 Photo,12:57,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+83,14160986-67c9-4112-9654-592a6835db5c,"3107B Calle 31 Sur
+Heroica Puebla de Zaragoza Puebla 72400
+México",2022-11-16 02:55:52 UTC,Martin Luna,Martin Luna,SRID=4326;POINT(-98.2285093 19.0435574),19.0435574,-98.2285093,12:40,SP-38-769,5,Delivery,Light truck or Van,1,no,Produce (fruits & vegetables),1 Photo,12:55,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+84,836361fb-22d6-4185-ad73-a69b32c82a14,"3519 Calle 31 B Sur
+Heroica Puebla de Zaragoza Puebla 72400
+México",2022-11-16 02:55:51 UTC,Martin Luna,Martin Luna,SRID=4326;POINT(-98.2306771 19.0422433),19.0422433,-98.2306771,12:27,SM-28-581,Pintex,Sales (usually small car or motorcycle),Light truck or Van,1,no,Nonfood,1 Photo,12:40,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+85,152812c5-5e95-40e6-909f-7396e7a4d717,"3107-B Calle 31 Sur
+Puebla de Zaragoza PUE 72400
+MX",2022-11-16 02:55:51 UTC,Erwin Ruiz,Erwin Ruiz,SRID=4326;POINT(-98.2285106837 19.0435907002),19.0435907002,-98.2285106837,12:45,SN-16-160,5,Delivery,Light truck or Van,1,no,Produce (fruits & vegetables),1 Photo,13:00,Street - next to the curbside,no,no,Rear,0,1.0,no,no,2.0,no,no,3.0
+86,58139050-adeb-41f9-ba63-54b11f468367,"2911 Avenida 25 Poniente
+Heroica Puebla de Zaragoza Puebla 72400
+México",2022-11-16 02:55:51 UTC,Martin Luna,Martin Luna,SRID=4326;POINT(-98.2256545 19.0460863),19.0460863,-98.2256545,14:00,SP-16-553,VIVER: Agua de manantial,Delivery,Light truck or Van,2,no,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,14:39,Double lane,no,no,Rear,1,4.0,no,no,2.0,no,yes,3.0
+87,0a9707d8-97f5-474d-ae8d-bcdcc3e93d4b,"2506 Calle 23 Sur
+Puebla de Zaragoza PUE 72410
+MX",2022-11-16 02:55:50 UTC,Erwin Ruiz,Erwin Ruiz,SRID=4326;POINT(-98.2205807414 19.0429727968),19.0429727968,-98.2205807414,16:28,XX-22-202,Bachoco,Delivery,Light truck or Van,1,yes,"Meat (beef, poultry, pork, seafood, etc.)",1 Photo,16:35,On top of a sidewalk,yes,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+88,90d1a829-f67d-48e6-a17c-16da650ccd3c,"2711 Avenida 25 Poniente
+Heroica Puebla de Zaragoza Puebla 72410
+México",2022-11-16 02:55:49 UTC,Martin Luna,Martin Luna,SRID=4326;POINT(-98.2243523 19.0454045),19.0454045,-98.2243523,14:10,SP-14-378,Epura,Delivery,Heavy duty truck,2,no,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,14:30,Street - next to the curbside,no,no,Side,0,1.0,no,no,2.0,no,no,3.0
+89,472e2249-ae23-49d6-b54a-46f080ea4a9a,"2904 Avenida 27 Poniente
+Heroica Puebla de Zaragoza Puebla 72400
+México",2022-11-16 02:55:49 UTC,Martin Luna,Martin Luna,SRID=4326;POINT(-98.2257501 19.0451654),19.0451654,-98.2257501,13:52,SP-31-019,Bimbo,Delivery,Light truck or Van,1,no,"Bakery (bread, cookies, cakes, etc.)",1 Photo,14:05,Street - next to the curbside,no,no,Rear,0,1.0,yes,no,2.0,no,no,3.0
+90,7ee83276-b961-4b9b-9250-014822400c78,"2503–2505 Calle 31 Sur
+Puebla de Zaragoza PUE 72400
+MX",2022-11-16 02:54:44 UTC,Hiram Arellano,Hiram Arellano,SRID=4326;POINT(-98.2270032791 19.0459750184),19.0459750184,-98.2270032791,15:00,TSU-803-A,Dodge,Sales & delivery,Light truck or Van,2,no,Produce (fruits & vegetables),1 Photo,15:17,Street - next to the curbside,no,no,Side,1,1.0,no,no,2.0,no,no,3.0
+91,3f89a5cf-cedb-446d-9c34-9f2b1b7515b1,"2503–2505 Calle 31 Sur
+Puebla de Zaragoza PUE 72400
+MX",2022-11-16 02:54:43 UTC,Hiram Arellano,Hiram Arellano,SRID=4326;POINT(-98.2270237811 19.0459459071),19.0459459071,-98.2270237811,15:10,TWU-347-A,Chevrolet,Sales (usually small car or motorcycle),SUV,1,no,Ferreteria,1 Photo,15:13,Double lane,yes,no,Side,0,1.0,yes,no,2.0,yes,yes,3.0
+92,7271a0a8-800d-4344-88db-e6e030414736,"2503 Calle 31 Sur
+Puebla de Zaragoza PUE 72400
+MX",2022-11-16 02:54:42 UTC,Hiram Arellano,Hiram Arellano,SRID=4326;POINT(-98.2270719812 19.0459647728),19.0459647728,-98.2270719812,15:08,TUZ-829-A,Mazda,Sales (usually small car or motorcycle),SUV,1,no,,1 Photo,15:13,On top of a sidewalk,no,no,Side,0,1.0,no,no,2.0,yes,no,3.0
+93,e59a3805-cb8c-40a2-bd24-add74d911e6e,"2503–2505 Calle 31 Sur
+Puebla de Zaragoza PUE 72400
+MX",2022-11-16 02:54:42 UTC,Hiram Arellano,Hiram Arellano,SRID=4326;POINT(-98.2268874162 19.0459660627),19.0459660627,-98.2268874162,14:59,2,Bmw,Sales (usually small car or motorcycle),Automobile,2,no,Tuberia de baño,1 Photo,15:06,Double lane,yes,no,Side,0,1.0,no,no,2.0,yes,yes,3.0
+94,8004a0b2-679f-4723-807b-1d58ebb803d0,"2503–2505 Calle 31 Sur
+Puebla de Zaragoza PUE 72400
+MX",2022-11-16 02:54:41 UTC,Hiram Arellano,Hiram Arellano,SRID=4326;POINT(-98.2268531483 19.0459934942),19.0459934942,-98.2268531483,14:54,TYT-65-84,Kia,Sales (usually small car or motorcycle),SUV,1,no,"Meat (beef, poultry, pork, seafood, etc.)",1 Photo,15:02,Street - next to the curbside,no,no,Side,0,4.0,no,no,2.0,no,no,3.0
+95,4118e091-0e47-4813-8ba2-5afb445a0c1a,"2503–2505 Calle 31 Sur
+Puebla de Zaragoza PUE 72400
+MX",2022-11-16 02:54:41 UTC,Hiram Arellano,Hiram Arellano,SRID=4326;POINT(-98.2268978097 19.046261441),19.046261441,-98.2268978097,14:47,TPE-940-B,Chevrolet,Sales (usually small car or motorcycle),Automobile,2,no,Nonfood,1 Photo,14:55,Street - next to the curbside,no,no,Rear,0,1.0,no,no,2.0,no,no,3.0
+96,12a559f4-7648-4f88-aaaa-694b39b4e151,"2503–2505 Calle 31 Sur
+Puebla de Zaragoza PUE 72400
+MX",2022-11-16 02:54:40 UTC,Hiram Arellano,Hiram Arellano,SRID=4326;POINT(-98.2269603387 19.0459663142),19.0459663142,-98.2269603387,14:43,YJJ-292-C,Bmw,Sales (usually small car or motorcycle),Automobile,1,no,"Nonfood,Other",1 Photo,14:45,On top of a sidewalk,no,no,Side,1,4.0,no,no,2.0,no,no,3.0
+97,bc464692-ed38-434f-9b32-a602e94e7611,"207B Calle 5 Norte
+Cholula PUE 72764
+MX",2022-11-15 22:57:17 UTC,Harry Hernández,Harry Hernández,SRID=4326;POINT(-98.3093802632 19.0645911964),19.0645911964,-98.3093802632,16:55,2,5,Delivery,Light truck or Van,2,no,Nonfood,1 Photo,17:00,On top of a sidewalk,no,no,Side,0,4.0,no,no,2.0,no,no,3.0
+98,8548cc45-8a11-4282-b318-a3c76948d834,"111 A. Serdán
+Heroica Puebla de Zaragoza Puebla 72197
+México",2022-11-15 20:17:00 UTC,Ismael López,Ismael López,SRID=4326;POINT(-98.2501215488 19.0318539077),19.0318539077,-98.2501215488,13:12,SP-01-580,Sabritas,Delivery,Light truck or Van,1,no,Potato Chips,1 Photo,13:18,Street - next to the curbside,no,no,Rear,0,1.0,no,no,2.0,no,no,3.0
+99,b9122b8a-8445-461d-89fd-2ba430927ce8,"11-109 Avenida Aquiles Serdán
+Heroica Puebla de Zaragoza Puebla 72197
+México",2022-11-15 20:16:59 UTC,Ismael López,Ismael López,SRID=4326;POINT(-98.2500405 19.0312655),19.0312655,-98.2500405,12:52,SP-01-580,Sabritas,Delivery,Light truck or Van,1,no,Potato Chips,1 Photo,13:11,Street - next to the curbside,no,no,Rear,0,1.0,no,no,2.0,no,no,3.0
+100,3402ddd3-14f1-4c2e-8f3a-5de434353348,"111 Avenida Aquiles Serdán
+Heroica Puebla de Zaragoza Puebla 72197
+México",2022-11-15 20:16:59 UTC,Ismael López,Ismael López,SRID=4326;POINT(-98.2499744 19.0317836),19.0317836,-98.2499744,12:13,XB-7892-A,5,Delivery,Light truck or Van,3,no,"Harina, Maiz",1 Photo,13:11,Street - next to the curbside,no,no,Rear,0,1.0,no,no,2.0,no,no,3.0
+101,2c97946a-8290-4360-ac17-90023df29a6f,"20 Guadálupe Victoria
+Heroica Puebla de Zaragoza Puebla 72197
+México",2022-11-15 20:16:58 UTC,Ismael López,Ismael López,SRID=4326;POINT(-98.250065 19.0312233),19.0312233,-98.250065,11:45,XW-85-135,Tamariz,Delivery,Light truck or Van,1,no,"Enlatados,Non-alcoholic beverages (water, soda, etc.)",1 Photo,13:26,Street - next to the curbside,no,no,Rear,0,1.0,no,no,2.0,no,no,3.0
+102,c316fd06-1f37-4dcc-8c71-1585ad76cfbb,"723 Avenida Aquiles Serdán
+San Bernardino Tlaxcalancingo PUE 72836
+MX",2022-11-15 19:27:11 UTC,Miguel Burgos,Miguel Burgos,SRID=4326;POINT(-98.2499456507 19.0254858473),19.0254858473,-98.2499456507,13:16,788ETB,5,Sales & delivery,Heavy duty truck,2,yes,"Bakery (bread, cookies, cakes, etc.),Dairy (milk, cheese, etc.),Meat (beef, poultry, pork, seafood, etc.)",1 Photo,13:27,Street - next to the curbside,yes,no,Rear,1,4.0,no,no,2.0,no,no,3.0
+103,ee274a5f-33d7-4e80-9b4b-9bb70a9d1f4b,"145 Avenida Venustiano Carranza
+San Bernardino Tlaxcalancingo PUE 72836
+MX",2022-11-15 19:27:11 UTC,Miguel Burgos,Miguel Burgos,SRID=4326;POINT(-98.2499142411 19.0310044761),19.0310044761,-98.2499142411,13:10,SP01580,Sabritas,Sales & delivery,Light truck or Van,2,no,"Bakery (bread, cookies, cakes, etc.)",1 Photo,13:11,Street - next to the curbside,no,no,Rear,1,4.0,no,no,2.0,no,no,3.0
+104,211611ff-1657-4884-a2fa-94bdcf069fc8,"4–1634 Avenida Venustiano Carranza
+San Bernardino Tlaxcalancingo PUE 72835
+MX",2022-11-15 19:27:09 UTC,Miguel Burgos,Miguel Burgos,SRID=4326;POINT(-98.2491061341 19.0255734654),19.0255734654,-98.2491061341,12:51,64TTS,5,Sales & delivery,Motorcycle,1,no,Produce (fruits & vegetables),1 Photo,12:53,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+105,12d0e5bf-d665-4219-912f-e969e5df7297,"15 Calle Gustavo Díaz Ordaz
+San Bernardino Tlaxcalancingo PUE 72836
+MX",2022-11-15 19:27:08 UTC,Miguel Burgos,Miguel Burgos,SRID=4326;POINT(-98.2500808561 19.0265000028),19.0265000028,-98.2500808561,12:41,F76X8,5,Sales (usually small car or motorcycle),Motorcycle,1,no,"Dairy (milk, cheese, etc.)",1 Photo,12:46,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+106,8842b6b8-073a-46c4-a804-972ea0be5f37,"20 Avenida Aquiles Serdán
+San Bernardino Tlaxcalancingo PUE 72836
+MX",2022-11-15 19:27:08 UTC,Miguel Burgos,Miguel Burgos,SRID=4326;POINT(-98.249928817 19.0298452369),19.0298452369,-98.249928817,12:21,XW85135,Tamaras,Sales & delivery,Pick-up,2,no,"Bakery (bread, cookies, cakes, etc.)",1 Photo,12:25,On top of a sidewalk,no,no,Rear,1,4.0,no,no,2.0,no,no,3.0
+107,a2541bd2-f66a-441b-97b3-057bf9e0019c,"917 Avenida Aquiles Serdán
+San Bernardino Tlaxcalancingo PUE 72836
+MX",2022-11-15 19:27:08 UTC,Miguel Burgos,Miguel Burgos,SRID=4326;POINT(-98.249948211 19.0235413934),19.0235413934,-98.249948211,12:34,HB88464B,5,Sales & delivery,Pick-up,1,no,Nonfood,1 Photo,12:40,Street - next to the curbside,no,no,Rear,2,4.0,yes,no,2.0,no,no,3.0
+108,0bf005df-4b1f-4ce2-b944-7f2251832aed,"234 Avenida Aquiles Serdán
+San Bernardino Tlaxcalancingo PUE 72836
+MX",2022-11-15 19:27:07 UTC,Miguel Burgos,Miguel Burgos,SRID=4326;POINT(-98.2498607515 19.0247318198),19.0247318198,-98.2498607515,12:33,GHH3H,Lala,Sales (usually small car or motorcycle),Motorcycle,1,no,Produce (fruits & vegetables),1 Photo,12:37,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+109,f4a602ca-651b-426d-9f76-26235729023d,"123 Boulevard Andromeda
+San Bernardino Tlaxcalancingo PUE 72835
+MX",2022-11-14 21:56:32 UTC,Leoncio Mora Díaz,Ulises Núñez Bautista,SRID=4326;POINT(-98.2460767776 19.0305848388),19.0305848388,-98.2460767776,13:26,SN56338,Pipa de agua ,Delivery,Heavy duty truck,1,no,Water,1 Photo,13:38,Double lane,yes,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+110,2a227aac-1144-410a-8267-f49a7da4a1e5,"503 1 Calle 3 Sur
+Puebla de Zaragoza PUE 72000
+MX",2022-11-14 13:47:44 UTC,Fernando Báez,Fernando Báez,SRID=4326;POINT(-98.2012164598 19.0435197173),19.0435197173,-98.2012164598,11:29,SN29118,Pringles ,Sales & delivery,SUV,1,no,"Bakery (bread, cookies, cakes, etc.)",1 Photo,11:30,Street - next to the curbside,no,no,Rear,0,4.0,yes,no,2.0,no,no,3.0
+111,9382f323-845c-4d72-bc49-d2b49094d9b4,"702–710 Calle 3 Sur
+Puebla de Zaragoza PUE 72000
+MX",2022-11-14 13:47:43 UTC,Fernando Báez,Fernando Báez,SRID=4326;POINT(-98.2018907669 19.0422319997),19.0422319997,-98.2018907669,11:23,SM15226,Coca-cola,Delivery,Light truck or Van,1,no,"Bakery (bread, cookies, cakes, etc.)",1 Photo,11:27,Street - next to the curbside,no,no,Side,1,4.0,no,no,2.0,no,yes,3.0
+112,2610c6ec-767f-4b67-b787-b11c1545b209,"703D Calle 16 de Septiembre
+Puebla de Zaragoza PUE 72000
+MX",2022-11-14 13:47:43 UTC,Fernando Báez,Fernando Báez,SRID=4326;POINT(-98.2001949894 19.0417790728),19.0417790728,-98.2001949894,11:18,HH3192D,Marinela,Sales & delivery,Light truck or Van,1,no,"Bakery (bread, cookies, cakes, etc.)",1 Photo,11:21,Street - next to the curbside,no,no,Side,0,4.0,no,no,2.0,no,yes,3.0
+113,664e51c2-74f1-4fd5-b592-67b74c8c1d06,"305 Avenida Reforma
+Puebla de Zaragoza PUE 72000
+MX",2022-11-14 13:47:42 UTC,Fernando Báez,Fernando Báez,SRID=4326;POINT(-98.2003267275 19.0452351569),19.0452351569,-98.2003267275,11:08,SN56381,La flor de Loreto ,Sales & delivery,Pick-up,2,no,"Bakery (bread, cookies, cakes, etc.)",1 Photo,11:15,Street - next to the curbside,no,no,Rear,1,4.0,no,no,2.0,no,no,3.0
+114,d5f0e096-a841-462d-9be8-358f88f4236f,"106 Avenida 2 Poniente
+Puebla de Zaragoza PUE 72000
+MX",2022-11-14 13:47:42 UTC,Fernando Báez,Fernando Báez,SRID=4326;POINT(-98.1984406914 19.0454318494),19.0454318494,-98.1984406914,10:59,XE7104A,Coca-Cola,Sales & delivery,Light truck or Van,1,no,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,11:09,Street - next to the curbside,no,no,Side,0,4.0,no,no,2.0,no,no,3.0
+115,0c0089e0-0c96-4e2f-8491-5654c0de4056,"2 Calle 4 Norte
+Puebla de Zaragoza PUE 72000
+MX",2022-11-14 13:47:41 UTC,Fernando Báez,Fernando Báez,SRID=4326;POINT(-98.1954367084 19.0431186735),19.0431186735,-98.1954367084,10:42,SN58171,5,Sales & delivery,Pick-up,2,no,Nonfood,1 Photo,10:49,Street - next to the curbside,no,no,Rear,1,4.0,no,no,2.0,no,no,3.0
+116,ce21cd19-a607-4bca-9f94-97a388266150,"404B Avenida 2 Oriente
+Puebla de Zaragoza PUE 72000
+MX",2022-11-14 13:47:40 UTC,Fernando Báez,Fernando Báez,SRID=4326;POINT(-98.1949176021 19.0435677487),19.0435677487,-98.1949176021,10:35,XB98517,5,Sales & delivery,Pick-up,1,no,"Meat (beef, poultry, pork, seafood, etc.)",1 Photo,10:36,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+117,52b71a2f-188e-4f81-8446-30d5dc504ea3,"4503 Avenida 2 Poniente
+Heroica Puebla de Zaragoza Puebla 72070
+México",2022-11-14 12:13:00 UTC,Luis Gerardo Ramírez Lastra,Luis Gerardo Ramírez Lastra,SRID=4326;POINT(-98.2287272 19.0627278),19.0627278,-98.2287272,11:45,SK56475,5,Delivery,Light truck or Van,1,no,Produce (fruits & vegetables),1 Photo,12:10,Street - next to the curbside,no,no,Rear,1,4.0,no,no,2.0,no,no,3.0
+118,4408a234-9585-46fe-9b16-96c0faaf6db8,"73 Calle Almolonga
+Puebla de Zaragoza PUE 72160
+MX",2022-11-12 22:15:04 UTC,Salomon Abdala Perez,Salomon Abdala Perez,SRID=4326;POINT(-98.2334894708 19.0568933787),19.0568933787,-98.2334894708,14:00,KB-7050-A,Ricolino,Delivery,Light truck or Van,1,no,"Bakery (bread, cookies, cakes, etc.)",1 Photo,14:10,Street - next to the curbside,no,no,Side,1,4.0,yes,no,2.0,no,no,3.0
+119,673cd0e3-7290-4c4d-a57f-096d16b78141,"72 Calle Almolonga
+Puebla de Zaragoza PUE 72160
+MX",2022-11-12 20:41:39 UTC,Jorge Alberto Ostorga Flores,Jorge Alberto Ostorga Flores,SRID=4326;POINT(-98.233483903 19.0568494313),19.0568494313,-98.233483903,13:50,XC8687A,Marinela,Delivery,Heavy duty truck,2,no,"Bakery (bread, cookies, cakes, etc.)",1 Photo,14:10,Street - next to the curbside,no,no,Rear,1,4.0,no,no,2.0,no,no,3.0
+120,04e64464-3fbd-4ce1-99d8-5364e1567e8c,"4510 Vía Volkswagen
+Heroica Puebla de Zaragoza Puebla 72180
+Mexico",2022-11-12 18:02:57 UTC,Juan Carlos Bejarano Moreno,Juan Carlos Bejarano Moreno,SRID=4326;POINT(-98.2339161 19.0596775),19.0596775,-98.2339161,11:47,SM 20745,La fete,Delivery,Pick-up,1,yes,"Bakery (bread, cookies, cakes, etc.)",2 Photos,12:13,Street - next to the curbside,no,no,Side,0,1.0,no,no,2.0,no,no,3.0
+121,d0a6568d-cf8f-48fd-ad3d-007e79f4ae6b,"4501A Avenida 2 Poniente
+Heroica Puebla de Zaragoza Puebla 72070
+México",2022-11-12 17:55:44 UTC,Luis Gerardo Ramírez Lastra,Luis Gerardo Ramírez Lastra,SRID=4326;POINT(-98.2285674 19.0626948),19.0626948,-98.2285674,11:45,SP35169,Barcel,Delivery,Light truck or Van,1,no,"Bakery (bread, cookies, cakes, etc.),Nonfood",2 Photos,11:53,Street - next to the curbside,yes,no,Rear,2,4.0,yes,no,2.0,no,no,3.0
+122,eff15823-b1f2-4e82-afb2-2195635d1406,"4717 Avenida Reforma
+Heroica Puebla de Zaragoza Puebla 72160
+México",2022-11-12 17:55:44 UTC,Luis Gerardo Ramírez Lastra,Luis Gerardo Ramírez Lastra,SRID=4326;POINT(-98.231397 19.0627239),19.0627239,-98.231397,11:41,SN89460,5,Delivery,Light truck or Van,2,no,sillas y mesas para eventos ,1 Photo,12:00,Dedicated unloading area (Bay),no,no,Rear,2,4.0,no,no,2.0,no,no,3.0
+123,be5a8b55-ad05-4c32-8f62-7e0d20061cfc,"55 Calle Aljojuca
+Heroica Puebla de Zaragoza Puebla 72160
+México",2022-11-12 17:32:23 UTC,Luis Gerardo Ramírez Lastra,Luis Gerardo Ramírez Lastra,SRID=4326;POINT(-98.232277 19.0593853),19.0593853,-98.232277,11:00,SN16796,5,Delivery,Heavy duty truck,2,no,muebles,1 Photo,11:26,Street - next to the curbside,no,no,Rear,3,4.0,no,no,2.0,no,no,3.0
+124,9e629bb4-3fad-40b6-bccb-0970d8af1d0a,"247 Avenida Reforma Sur
+Heroica Puebla de Zaragoza Puebla 72160
+México",2022-11-12 17:25:22 UTC,Luis Gerardo Ramírez Lastra,Luis Gerardo Ramírez Lastra,SRID=4326;POINT(-98.2314082 19.0610519),19.0610519,-98.2314082,11:19,SN24486,Agua inmaculada,Sales & delivery,Automobile,1,no,"Non-alcoholic beverages (water, soda, etc.)",2 Photos,11:40,Street - next to the curbside,no,no,Rear,1,4.0,no,no,2.0,no,no,3.0
+125,8fdc5c5d-9113-4ca1-bb8a-a53b6dc1a65a,"3133 Tetela
+Heroica Puebla de Zaragoza Puebla 72160
+México",2022-11-12 17:01:03 UTC,Luis Gerardo Ramírez Lastra,Luis Gerardo Ramírez Lastra,SRID=4326;POINT(-98.2243023 19.057338),19.057338,-98.2243023,09:30,RR6807A,Lala,Delivery,Heavy duty truck,3,yes,"Dairy (milk, cheese, etc.)",1 Photo,11:20,Dedicated unloading area (Bay),no,no,Rear,2,4.0,no,no,2.0,no,no,3.0
+126,94dd77e9-0bf9-483c-983f-df71c4b9f45a,"3319 Avenida Reforma Sur
+Heroica Puebla de Zaragoza Puebla 72160
+México",2022-11-12 17:01:02 UTC,Luis Gerardo Ramírez Lastra,Luis Gerardo Ramírez Lastra,SRID=4326;POINT(-98.2241354 19.057425),19.057425,-98.2241354,10:40,XB0704A,Pilgrim,Delivery,Heavy duty truck,2,yes,"Dairy (milk, cheese, etc.)",1 Photo,10:55,Street - next to the curbside,no,no,Rear,2,4.0,no,no,2.0,no,no,3.0
+127,cda7b134-7827-4830-9337-53f46be4f8b4,"152 Calle Tehuacán Sur
+Heroica Puebla de Zaragoza Puebla 72160
+Mexico",2022-11-12 16:56:51 UTC,Juan Carlos Bejarano Moreno,Juan Carlos Bejarano Moreno,SRID=4326;POINT(-98.2297262 19.0531093),19.0531093,-98.2297262,10:37,XA 1445 A,Coca colá ,Delivery,Light truck or Van,3,no,"Non-alcoholic beverages (water, soda, etc.)",2 Photos,11:00,Street - next to the curbside,no,no,Side,2,1.0,no,no,2.0,no,no,3.0
+128,4fb92be5-f7f8-40ff-b4fe-d2d1e429ba13,"43 Calle 43 Norte
+Heroica Puebla de Zaragoza Puebla 72070
+México",2022-11-12 16:54:10 UTC,Luis Gerardo Ramírez Lastra,Luis Gerardo Ramírez Lastra,SRID=4326;POINT(-98.2274024 19.0620703),19.0620703,-98.2274024,10:28,XA49337,5,Sales & delivery,Light truck or Van,1,no,Produce (fruits & vegetables),1 Photo,10:30,On top of a sidewalk,yes,no,Rear,1,4.0,yes,no,2.0,yes,no,3.0
+129,cbaab095-ad31-4145-804b-ddc218681802,"3916 Avenida 21 Poniente
+Heroica Puebla de Zaragoza Puebla 72180
+Mexico",2022-11-12 16:45:34 UTC,Juan Carlos Bejarano Moreno,Juan Carlos Bejarano Moreno,SRID=4326;POINT(-98.2326791 19.0517539),19.0517539,-98.2326791,10:35,SP 28 423,5,Sales & delivery,SUV,2,no,"Non-alcoholic beverages (water, soda, etc.),Personal care (shampoo, soap, etc.)",1 Photo,10:55,Street - next to the curbside,no,no,Side,0,1.0,no,no,2.0,no,no,3.0
+130,68b5ecad-36b0-4172-b2b3-43aebd0485ec,"1906 Avenida Rosendo Márquez
+Heroica Puebla de Zaragoza Puebla 72180
+Mexico",2022-11-12 16:40:10 UTC,Juan Carlos Bejarano Moreno,Juan Carlos Bejarano Moreno,SRID=4326;POINT(-98.2339776 19.0529867),19.0529867,-98.2339776,10:22,SN 91 675,5,Delivery,SUV,1,no,"Dairy (milk, cheese, etc.)",1 Photo,10:43,Store's garage,no,no,Rear,0,1.0,no,no,2.0,no,no,3.0
+131,dc61d831-a0d0-448f-92fd-bfc60d449cf6,"3910 Avenida 2 Poniente
+Heroica Puebla de Zaragoza Puebla 72070
+México",2022-11-12 16:28:11 UTC,Luis Gerardo Ramírez Lastra,Luis Gerardo Ramírez Lastra,SRID=4326;POINT(-98.2255224 19.0611275),19.0611275,-98.2255224,09:50,SN70204,5,Sales & delivery,Light truck or Van,1,no,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,10:30,Public parking lot,no,no,Rear,1,4.0,no,no,2.0,no,no,3.0
+132,3b19bb47-17f0-4d33-aa27-cf6890bacfe5,"Heroica Puebla de Zaragoza Puebla 72160
+Mexico",2022-11-12 16:23:43 UTC,Juan Carlos Bejarano Moreno,Juan Carlos Bejarano Moreno,SRID=4326;POINT(-98.2301393 19.0553701),19.0553701,-98.2301393,10:11,Sn 16767,Eventos galish,Delivery,Light truck or Van,4,no,Nonfood,2 Photos,10:38,Street - next to the curbside,no,no,Rear,1,1.0,no,no,2.0,no,no,3.0
+133,7269f28f-ed3a-4c30-841a-11d82e5c0c5f,"28a San Martín Texmelucan
+Heroica Puebla de Zaragoza Puebla 72160
+México",2022-11-12 16:01:34 UTC,Luis Gerardo Ramírez Lastra,Luis Gerardo Ramírez Lastra,SRID=4326;POINT(-98.2282945 19.0590599),19.0590599,-98.2282945,09:56,SP30072,5,Sales & delivery,Light truck or Van,1,no,Flores,1 Photo,10:20,Public parking lot,no,no,Rear,1,4.0,no,no,2.0,no,no,3.0
+134,2b8a179a-521c-4ee3-a5ef-241fd1972b01,"45 Teziutlán Sur
+Heroica Puebla de Zaragoza Puebla 72160
+Mexico",2022-11-12 16:00:49 UTC,Juan Carlos Bejarano Moreno,Juan Carlos Bejarano Moreno,SRID=4326;POINT(-98.2271538 19.0532046),19.0532046,-98.2271538,09:46,809 WNH,Breaking Bread Coffee,Delivery,Pick-up,1,no,"Bakery (bread, cookies, cakes, etc.)",2 Photos,10:06,Public parking lot,no,yes,Side,0,1.0,no,no,2.0,no,no,3.0
+135,26c5673b-0e90-44a0-adc5-824be90e7ac4,"5535 Calle 5 Sur
+Puebla PUE 72440
+MX",2022-11-12 15:37:22 UTC,José Zapata,José Zapata,SRID=4326;POINT(-98.2170412377 19.0201596556),19.0201596556,-98.2170412377,09:26,SP01581,Sabritas,Sales & delivery,Light truck or Van,2,no,Chips ,1 Photo,09:32,Street - next to the curbside,no,no,Rear,1,4.0,no,no,2.0,no,no,3.0
+136,3aa26fc8-4373-4387-ac50-4f7b0d417107,"535B Avenida 3 Poniente
+Puebla de Zaragoza PUE 72000
+MX",2022-11-12 15:11:00 UTC,Sandra Carreón,Martínez Edwin Alejandro,SRID=4326;POINT(-98.2034983859 19.045889033),19.045889033,-98.2034983859,12:22,XE7105A,Coca-Cola,Delivery,Light truck or Van,2,no,"Non-alcoholic beverages (water, soda, etc.)",2 Photos,12:28,Double lane,yes,no,Side,1,1.0,no,no,2.0,no,yes,3.0
+137,be55ca05-95dc-4215-ad31-e3bc3549320e,"105 5 Avenida 2 Poniente
+Puebla de Zaragoza PUE 72000
+MX",2022-11-12 15:11:00 UTC,José Oropeza,Martínez Edwin Alejandro,SRID=4326;POINT(-98.1986525472 19.0453107361),19.0453107361,-98.1986525472,11:00,SK-19-310,5,Delivery,Heavy duty truck,2,no,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,11:19,Street - next to the curbside,no,no,Side,2,4.0,no,no,2.0,no,no,3.0
+138,01b3d7bf-80bc-4a18-9ca2-0063a7164ef0,"5756 Calle 5 Sur
+Puebla de Zaragoza PUE 72440
+MX",2022-11-12 15:10:59 UTC,José Zapata,Martínez Edwin Alejandro,SRID=4326;POINT(-98.21787 19.018541),19.018541,-98.21787,10:31,HJ5434F,Marinela,Delivery,Light truck or Van,4,no,"Bakery (bread, cookies, cakes, etc.)",1 Photo,10:52,Street - next to the curbside,no,no,Rear,1,4.0,no,no,2.0,no,no,3.0
+139,5288fd44-2899-4765-9195-3f866d2e6d45,"709–725 Avenida 3 Poniente
+Puebla de Zaragoza PUE 72000
+MX",2022-11-12 15:10:59 UTC,Sandra Carreón,Martínez Edwin Alejandro,SRID=4326;POINT(-98.2037109509 19.0459898685),19.0459898685,-98.2037109509,12:52,SP28323,Peñafiel,Delivery,Light truck or Van,1,no,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,13:02,Public parking lot,yes,no,Side,1,1.0,no,no,2.0,no,no,3.0
+140,ced463ec-22a6-4e79-964d-b348817e1098,"535b Avenida 3 Poniente
+Heroica Puebla de Zaragoza Puebla 72000
+México",2022-11-12 02:44:45 UTC,Sergio Licea,Diego Hernán López L,SRID=4326;POINT(-98.2036475837 19.0459610286),19.0459610286,-98.2036475837,18:00,SN-91-966,5,Delivery,Light truck or Van,1,no,"Dairy (milk, cheese, etc.)",1 Photo,18:15,Street - next to the curbside,yes,no,Rear,0,4.0,no,no,2.0,no,yes,8.0
+141,d1662ccd-4787-4c38-969a-a9e8a01ad1c2,"6 Calle 4 Norte
+Puebla de Zaragoza PUE 72000
+MX",2022-11-12 02:03:44 UTC,Sandra Carreón,Sandra Carreón,SRID=4326;POINT(-98.1941044021 19.045529019),19.045529019,-98.1941044021,16:17,SP40994,Marinela,Delivery,Light truck or Van,1,yes,"Bakery (bread, cookies, cakes, etc.)",1 Photo,16:26,Street - next to the curbside,yes,no,Rear,1,1.0,no,no,2.0,no,no,3.0
+142,9b4fc2c6-6f9d-4a64-99ea-7482533c4536,"Heroica Puebla de Zaragoza Puebla 72000
+México",2022-11-11 22:24:51 UTC,Sergio Licea,Sergio Licea,SRID=4326;POINT(-98.1937378272 19.04621108),19.04621108,-98.1937378272,15:55,SP-14-380,Pepsi,Delivery,Light truck or Van,1,no,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,16:16,Double lane,no,no,Side,0,4.0,no,no,2.0,no,no,3.0
+143,1ad48cb6-aed4-47cd-bf9d-526abe05c96a,"Coclovía 9 Sur
+Cholula PUE 72764
+MX",2022-11-11 22:11:31 UTC,Harry Hernández,Harry Hernández,SRID=4326;POINT(-98.3130123128 19.0651500243),19.0651500243,-98.3130123128,16:29,"SL81570
+",Corona,Delivery,Heavy duty truck,3,no,"Alcoholic beverages (beer, liquor, etc.)",1 Photo,16:31,Street - next to the curbside,no,no,Side,2,4.0,no,no,2.0,no,yes,3.0
+144,d30cea2f-d083-4f94-9858-b3ef0cb6ecab,"526 Avenida Miguel Hidalgo
+Cholula PUE 72764
+MX",2022-11-11 22:11:30 UTC,Harry Hernández,Harry Hernández,SRID=4326;POINT(-98.3115490359 19.0640094081),19.0640094081,-98.3115490359,15:50,80TEL7,Presto ,Delivery,Motorcycle,1,no,"Bakery (bread, cookies, cakes, etc.)",1 Photo,15:55,Street - next to the curbside,no,no,Side,0,4.0,no,no,2.0,no,no,3.0
+145,fed369a3-9e0e-4c42-acca-200c6dd60a2a,"3A Calle 7 Norte
+Cholula PUE 72764
+MX",2022-11-11 22:11:30 UTC,Harry Hernández,Harry Hernández,SRID=4326;POINT(-98.3115105239 19.0642812755),19.0642812755,-98.3115105239,15:52,SN26042,Coca Cola ,Delivery,Heavy duty truck,3,no,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,16:05,Street - next to the curbside,no,no,Side,2,4.0,no,no,2.0,no,no,3.0
+146,56aee666-7420-474e-9056-0995e085b806,"17 Avenida 5 Oriente
+Cholula Puebla 72760
+Mexico",2022-11-11 22:08:32 UTC,José Varela,José Varela,SRID=4326;POINT(-98.30646 19.0598333),19.0598333,-98.30646,16:24,Lb92523,Bonafont,Delivery,Heavy duty truck,1,no,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,16:32,Street - next to the curbside,no,no,Side,1,4.0,no,no,2.0,no,no,3.0
+147,5f349557-fb6f-4847-be1d-a517f1d78c88,"512 Avenida 4 Poniente
+Cholula Puebla 72760
+Mexico",2022-11-11 22:08:31 UTC,José Varela,José Varela,SRID=4326;POINT(-98.31059 19.0656),19.0656,-98.31059,15:22,Sk94616,Sabritas,Delivery,Heavy duty truck,2,no,"Bakery (bread, cookies, cakes, etc.)",1 Photo,15:34,Street - next to the curbside,no,no,Rear,1,4.0,no,no,2.0,no,no,3.0
+148,cff61d15-ca2d-470f-b660-ae64a9d12615,"501A Avenida 2 Poniente
+De Puebla 72760
+Mexico",2022-11-11 22:08:31 UTC,José Varela,José Varela,SRID=4326;POINT(-98.309745 19.0640329),19.0640329,-98.309745,15:05,SN20719,San Antonio,Delivery,Light truck or Van,2,yes,"Dairy (milk, cheese, etc.)",1 Photo,15:21,Public parking lot,no,no,Rear,2,4.0,no,no,2.0,no,no,3.0
+149,71a4e11f-847b-4e41-9cb6-0ccfb7a01807,"501A Avenida 2 Poniente
+De Puebla 72760
+Mexico",2022-11-11 22:08:30 UTC,José Varela,José Varela,SRID=4326;POINT(-98.3097392 19.0639638),19.0639638,-98.3097392,15:09,SJ67008,5,Delivery,SUV,2,no,Produce (fruits & vegetables),1 Photo,15:20,Street - next to the curbside,no,no,Rear,2,4.0,no,no,2.0,no,no,3.0
+150,115bf098-e947-4d09-ad07-9ad579164c35,"506 Calle 5 Sur
+Cholula Puebla 72760
+Mexico",2022-11-11 22:08:30 UTC,José Varela,José Varela,SRID=4326;POINT(-98.3110767 19.0612967),19.0612967,-98.3110767,14:47,LE83024,Marinela,Delivery,SUV,1,no,"Bakery (bread, cookies, cakes, etc.)",1 Photo,15:00,Street - next to the curbside,no,no,Rear,1,4.0,no,no,2.0,no,no,3.0
+151,1f2c3241-509a-4d91-a433-1a15e96fd24b,"316 Avenida 2 Poniente
+San Andrés Cholula Puebla 72760
+Mexico",2022-11-11 22:08:29 UTC,José Varela,José Varela,SRID=4326;POINT(-98.3092333 19.0638883),19.0638883,-98.3092333,16:15,LE83024,Príncipes Marinela,Delivery,Light truck or Van,2,no,"Bakery (bread, cookies, cakes, etc.)",1 Photo,16:35,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+152,2a23ed7d-dbe7-490f-b61d-cea9b0ae028e,"286 Avenida 2 Poniente
+San Andrés Cholula Puebla 72760
+Mexico",2022-11-11 22:08:29 UTC,José Varela,José Varela,SRID=4326;POINT(-98.3093346 19.063999),19.063999,-98.3093346,16:08,SP 13 463,5,Delivery,Light truck or Van,2,no,Produce (fruits & vegetables),1 Photo,16:30,Public parking lot,no,no,Rear,1,4.0,no,no,2.0,no,no,3.0
+153,6f431744-a51b-4b36-b33f-13fb860ef131,"403 Calle 7 Norte
+Cholula Puebla 72764
+Mexico",2022-11-11 22:08:28 UTC,José Varela,José Varela,SRID=4326;POINT(-98.3107461 19.0656979),19.0656979,-98.3107461,15:52,SP14239,Pepsi,Delivery,Heavy duty truck,3,no,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,16:00,Street - next to the curbside,no,no,Side,1,1.0,no,no,2.0,no,no,3.0
+154,56562b58-bfeb-4165-8e3b-7bc0a5a224cf,"No 1 1 Avenida Morelos
+Cholula Puebla 72760
+Mexico",2022-11-11 22:08:27 UTC,José Varela,José Varela,SRID=4326;POINT(-98.3067634 19.0618411),19.0618411,-98.3067634,15:45,SN26042,Coca Cola,Delivery,Heavy duty truck,2,no,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,15:55,Street - next to the curbside,no,no,Side,2,1.0,no,no,2.0,no,no,3.0
+155,830c044c-e22c-4754-994c-6f42f69bf133,"5751–5759 Calle 3 Sur
+Puebla de Zaragoza PUE 72440
+MX",2022-11-11 17:23:47 UTC,Manuel Flores,Manuel Flores,SRID=4326;POINT(-98.2155760378 19.0183170953),19.0183170953,-98.2155760378,15:53,NFP-71-65,Bonafont,Sales (usually small car or motorcycle),Automobile,1,no,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,15:59,Street - next to the curbside,no,no,Rear,0,4.0,yes,no,2.0,no,no,3.0
+156,a7c85035-e5ea-467d-a130-9b6fdd72cb9a,"5751–5759 Calle 3 Sur
+Puebla de Zaragoza PUE 72440
+MX",2022-11-11 17:23:46 UTC,Manuel Flores,Manuel Flores,SRID=4326;POINT(-98.2155917826 19.0182728319),19.0182728319,-98.2155917826,15:36,94TEH3,Peñafiel,Delivery,Motorcycle,1,no,"Non-alcoholic beverages (water, soda, etc.)",3 Photos,15:42,Street - next to the curbside,no,no,Side,0,4.0,yes,no,2.0,no,no,3.0
+157,05a48de5-9458-441c-b96b-9a22c187d974,"115 Calle Tamaulipas
+Puebla de Zaragoza PUE 72440
+MX",2022-11-11 17:23:46 UTC,Manuel Flores,Manuel Flores,SRID=4326;POINT(-98.2156169415 19.0155333985),19.0155333985,-98.2156169415,15:15,LE-18461,Bonafont,Delivery,Heavy duty truck,2,no,"Non-alcoholic beverages (water, soda, etc.)",2 Photos,15:21,Street - next to the curbside,no,no,Side,2,4.0,yes,no,2.0,no,no,3.0
+158,c57f43e8-8c23-4da5-b220-ff9b00e6b020,1,2022-11-11 13:42:27 UTC,José Zapata,José Zapata,SRID=4326;POINT(-98.215618 19.018353),19.018353,-98.215618,15:57,SN42550,Chispagua,Delivery,Light truck or Van,1,no,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,16:05,Double lane,no,no,Side,1,4.0,yes,no,2.0,no,yes,3.0
+159,af1d6ac9-3e31-42de-a4d2-873c080b8766,"730 Avenida Reforma
+Puebla de Zaragoza PUE 72000
+MX",2022-11-11 05:09:33 UTC,Sandra Carreón,Sandra Carreón,SRID=4326;POINT(-98.2042665035 19.0473467298),19.0473467298,-98.2042665035,11:19,SP35259,Ricolino ,Delivery,Light truck or Van,1,no,"Bakery (bread, cookies, cakes, etc.)",1 Photo,11:35,On top of a sidewalk,no,no,Rear,1,1.0,no,no,2.0,no,no,3.0
+160,9eac0dba-fb4b-4947-ba68-c406dadb6887,"605 Calle 5 Norte
+Puebla de Zaragoza PUE 72000
+MX",2022-11-11 05:09:33 UTC,Sandra Carreón,Sandra Carreón,SRID=4326;POINT(-98.2000555478 19.04881606),19.04881606,-98.2000555478,10:15,WZ3038A,5,Delivery,Pick-up,4,no,"Nonfood,Other",1 Photo,10:41,Store's garage,no,no,Rear,0,1.0,no,no,2.0,no,no,3.0
+161,81e9e876-3b3c-4376-a359-7ae4df145f0b,"1826–1832 Avenida Venustiano Carranza
+San Bernardino Tlaxcalancingo PUE 72835
+MX",2022-11-10 21:43:51 UTC,Leoncio Mora Díaz,Leoncio Mora Díaz,SRID=4326;POINT(-98.2491253597 19.0226732567),19.0226732567,-98.2491253597,12:41,LB62119,Nestle ,Delivery,Light truck or Van,3,yes,"Bakery (bread, cookies, cakes, etc.)",1 Photo,13:04,Street - next to the curbside,yes,no,Side,1,4.0,no,no,2.0,no,no,3.0
+162,54af96d2-2503-43ba-9fd5-55a3a132033f,"11 Privada la Quinta
+San Bernardino Tlaxcalancingo PUE 72836
+MX",2022-11-10 21:40:28 UTC,Leoncio Mora Díaz,Leoncio Mora Díaz,SRID=4326;POINT(-98.249059394 19.0285984919),19.0285984919,-98.249059394,23:40,LC08082,Danone,Delivery,Light truck or Van,2,yes,"Dairy (milk, cheese, etc.)",2 Photos,12:02,Street - next to the curbside,yes,yes,Rear,0,4.0,no,no,2.0,no,no,3.0
+163,4f30ea03-1942-41d6-8a0c-784d5d42018a,"123 Avenida Venustiano Carranza
+San Bernardino Tlaxcalancingo PUE 72836
+MX",2022-11-10 21:28:26 UTC,Leoncio Mora Díaz,Leoncio Mora Díaz,SRID=4326;POINT(-98.2501925963 19.0319133618),19.0319133618,-98.2501925963,15:00,LB99390,Bonafont ,Delivery,Heavy duty truck,2,no,"Non-alcoholic beverages (water, soda, etc.)",2 Photos,15:21,Street - next to the curbside,no,no,Side,1,4.0,no,no,2.0,no,no,3.0
+164,78332301-b37b-4907-af54-ab5447d68b98,"122 Avenida Venustiano Carranza
+San Bernardino Tlaxcalancingo PUE 72836
+MX",2022-11-10 21:24:53 UTC,Leoncio Mora Díaz,Leoncio Mora Díaz,SRID=4326;POINT(-98.2492907345 19.0260824818),19.0260824818,-98.2492907345,14:09,SM69777,Bimbo,Delivery,Heavy duty truck,2,no,"Bakery (bread, cookies, cakes, etc.)",1 Photo,14:23,Street - next to the curbside,yes,no,Rear,2,4.0,no,no,2.0,no,no,3.0
+165,4770c182-25c2-45c5-b037-af1e91e6bf39,"820 Calle Andrómeda
+San Bernardino Tlaxcalancingo PUE 72836
+MX",2022-11-10 20:20:00 UTC,Leoncio Mora Díaz,Leoncio Mora Díaz,SRID=4326;POINT(-98.2486956194 19.0319597687),19.0319597687,-98.2486956194,13:15,SM61748,Sabritas,Delivery,Heavy duty truck,2,no,Chips,2 Photos,14:18,Street - next to the curbside,no,no,Side,0,4.0,no,no,2.0,no,no,3.0
+166,ff5247f2-c585-4186-b053-2110d9c91ee8,"37–38 Calle Revolución
+San Bernardino Tlaxcalancingo PUE 72824
+MX",2022-11-10 20:03:58 UTC,María Pedraza,María Pedraza,SRID=4326;POINT(-98.2625677774 19.0356715777),19.0356715777,-98.2625677774,13:55,Sm29694,5,Sales & delivery,Light truck or Van,1,no,Nonfood,1 Photo,14:03,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+167,e2ebbe77-82e7-42ef-a00f-31447cc4fd97,"38B Calle Revolución
+San Bernardino Tlaxcalancingo PUE 72824
+MX",2022-11-10 19:59:35 UTC,María Pedraza,María Pedraza,SRID=4326;POINT(-98.2624759132 19.0357673722),19.0357673722,-98.2624759132,13:49,Sp19719,5,Delivery,Light truck or Van,2,no,"Bakery (bread, cookies, cakes, etc.)",1 Photo,13:55,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+168,7a5ee078-77dc-4ae3-bb34-a3ea51498a8e,"51 Calle Revolución
+San Bernardino Tlaxcalancingo PUE 72824
+MX",2022-11-10 19:59:34 UTC,María Pedraza,María Pedraza,SRID=4326;POINT(-98.2628961378 19.0350535564),19.0350535564,-98.2628961378,13:25,Sp17204,5,Delivery,Pick-up,2,no,"Meat (beef, poultry, pork, seafood, etc.)",1 Photo,13:41,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+169,37ab2566-b109-4fe1-b746-c39b26128686,"703 Camino Real a San Andrés
+San Bernardino Tlaxcalancingo PUE 72824
+MX",2022-11-10 19:59:33 UTC,María Pedraza,María Pedraza,SRID=4326;POINT(-98.2628400234 19.0340166363),19.0340166363,-98.2628400234,13:31,Nv5303a,Pepsi,Delivery,Light truck or Van,3,no,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,13:41,Street - next to the curbside,no,no,Side,1,4.0,no,no,2.0,no,no,3.0
+170,a320db7e-7291-4edc-a2d1-ba652932156b,"Camino Real a San Andrés
+San Bernardino Tlaxcalancingo PUE 72824
+MX",2022-11-10 19:59:33 UTC,María Pedraza,María Pedraza,SRID=4326;POINT(-98.2635409444 19.034514549),19.034514549,-98.2635409444,13:21,Xx7123a,5,Delivery,Pick-up,1,no,"Paper Goods (paper towels, toilet paper, etc.),Personal care (shampoo, soap, etc.)",1 Photo,13:28,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+171,a4a324db-66a0-44b5-8173-00ec7a3f1cd4,"4403 Calle Camino Real a Cholula
+San Bernardino Tlaxcalancingo PUE 72824
+MX",2022-11-10 19:59:32 UTC,María Pedraza,María Pedraza,SRID=4326;POINT(-98.2639964957 19.0345860549),19.0345860549,-98.2639964957,10:30,Sp01608,EpurA,Delivery,Light truck or Van,2,no,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,10:30,Double lane,no,no,Side,0,4.0,yes,no,2.0,no,no,3.0
+172,c808dd05-935b-4886-a9ee-68423df95168,"1409 Camino Real a San Andrés
+San Bernardino Tlaxcalancingo PUE 72824
+MX",2022-11-10 19:59:32 UTC,María Pedraza,María Pedraza,SRID=4326;POINT(-98.2641675045 19.0345795332),19.0345795332,-98.2641675045,13:00,Nwj8241,5,Delivery,Pick-up,1,no,Tlapalería ,1 Photo,13:07,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+173,c09a34b6-013e-4019-b413-3e25a1bfe042,"4138–4183 Camino Real a San Andrés
+San Bernardino Tlaxcalancingo PUE 72824
+MX",2022-11-10 19:59:31 UTC,María Pedraza,María Pedraza,SRID=4326;POINT(-98.2665773949 19.0351433435),19.0351433435,-98.2665773949,12:50,Sp21948,5,Sales & delivery,Light truck or Van,1,no,"Personal care (shampoo, soap, etc.)",1 Photo,12:57,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+174,0341e783-eb96-4f77-8629-04289dba411c,"Camino Real a San Andrés
+San Bernardino Tlaxcalancingo PUE 72824
+MX",2022-11-10 19:59:30 UTC,María Pedraza,María Pedraza,SRID=4326;POINT(-98.2677415465 19.0354752905),19.0354752905,-98.2677415465,12:40,Sn75443,5,Delivery,Light truck or Van,1,no,Papelería ,1 Photo,12:52,Public parking lot,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+175,2b0e047a-b369-4837-89ea-dc2ee2683bb3,"Camino Real a San Andrés
+San Bernardino Tlaxcalancingo PUE 72824
+MX",2022-11-10 19:59:30 UTC,María Pedraza,María Pedraza,SRID=4326;POINT(-98.2673591003 19.0352303319),19.0352303319,-98.2673591003,12:35,Trx8426,5,Sales & delivery,Automobile,1,no,"Alcoholic beverages (beer, liquor, etc.)",1 Photo,12:48,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,yes,3.0
+176,4b60fdac-1b7e-4fa4-bc52-165984631f40,"4002 Camino Real a San Andrés
+San Bernardino Tlaxcalancingo PUE 72824
+MX",2022-11-10 19:59:29 UTC,María Pedraza,María Pedraza,SRID=4326;POINT(-98.2667092728 19.0352613585),19.0352613585,-98.2667092728,12:30,Ajf942A,5,Delivery,SUV,2,no,"Meat (beef, poultry, pork, seafood, etc.)",1 Photo,12:44,Street - next to the curbside,yes,no,Rear,0,4.0,no,no,2.0,no,yes,3.0
+177,21b558f1-9d59-4f81-a89f-0024864c8120,"37–38 Calle Revolución
+San Bernardino Tlaxcalancingo PUE 72824
+MX",2022-11-10 19:59:10 UTC,Carol Cázares,Carol Cázares,SRID=4326;POINT(-98.2625598689 19.0356709219),19.0356709219,-98.2625598689,13:54,LF48486,5,Delivery,Light truck or Van,2,yes,"Meat (beef, poultry, pork, seafood, etc.)",1 Photo,13:54,Street - next to the curbside,no,yes,Rear,1,4.0,no,no,2.0,no,no,3.0
+178,20d7fb07-39ae-4bf0-9edf-1781d965a52f,"38B Calle Revolución
+San Bernardino Tlaxcalancingo PUE 72824
+MX",2022-11-10 19:59:09 UTC,Carol Cázares,Carol Cázares,SRID=4326;POINT(-98.2623923198 19.0356522985),19.0356522985,-98.2623923198,13:42,SP17065,5,Delivery,Pick-up,1,no,Nonfood,1 Photo,13:42,Street - next to the curbside,no,no,Rear,2,4.0,no,no,2.0,no,no,3.0
+179,7afa0159-f5aa-4e85-9403-220ec8781e1c,"4410 Calle Camino Real a Cholula
+San Bernardino Tlaxcalancingo PUE 72824
+MX",2022-11-10 19:59:09 UTC,Carol Cázares,Carol Cázares,SRID=4326;POINT(-98.2631015965 19.0343777044),19.0343777044,-98.2631015965,13:38,SN64989,5,Sales & delivery,Light truck or Van,2,yes,"Meat (beef, poultry, pork, seafood, etc.),Other",1 Photo,13:40,Dedicated unloading area (Bay),yes,yes,Rear,2,4.0,no,no,2.0,no,no,3.0
+180,fa6524ba-5644-46a2-8e12-87e92cbb16a6,"4410 Calle Camino Real a Cholula
+San Bernardino Tlaxcalancingo PUE 72824
+MX",2022-11-10 19:59:08 UTC,Carol Cázares,Carol Cázares,SRID=4326;POINT(-98.2630814799 19.0343920374),19.0343920374,-98.2630814799,13:34,SN56453,5,Delivery,Pick-up,1,no,"Bakery (bread, cookies, cakes, etc.)",1 Photo,13:36,Street - next to the curbside,no,yes,Side,2,4.0,no,no,2.0,no,no,3.0
+181,c05e7597-d89f-45c9-ab54-b5664ae5e4aa,"4410 Calle Camino Real a Cholula
+San Bernardino Tlaxcalancingo PUE 72824
+MX",2022-11-10 19:59:08 UTC,Carol Cázares,Carol Cázares,SRID=4326;POINT(-98.2633591724 19.0343689453),19.0343689453,-98.2633591724,13:31,SN45694,5,Sales & delivery,Pick-up,1,no,Produce (fruits & vegetables),1 Photo,13:31,Street - next to the curbside,no,no,Rear,1,4.0,yes,no,2.0,no,no,3.0
+182,383d2608-f4e2-4b5e-8ffe-39ba0b3b7925,"4406A Camino Real a San Andrés
+San Bernardino Tlaxcalancingo PUE 72824
+MX",2022-11-10 19:59:08 UTC,Carol Cázares,Carol Cázares,SRID=4326;POINT(-98.2651511394 19.0346141998),19.0346141998,-98.2651511394,12:58,SN64573,5,Sales & delivery,Pick-up,1,yes,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,12:58,Street - next to the curbside,no,yes,Rear,1,4.0,yes,no,2.0,no,no,3.0
+183,0bbc0165-52b0-4cdb-877c-1a7bc6002e97,"4406 Camino Real a San Andrés
+San Bernardino Tlaxcalancingo PUE 72824
+MX",2022-11-10 19:59:07 UTC,Carol Cázares,Carol Cázares,SRID=4326;POINT(-98.2655785544 19.0347939344),19.0347939344,-98.2655785544,12:55,TYV935A,5,Delivery,Automobile,1,no,"Paper Goods (paper towels, toilet paper, etc.)",1 Photo,12:56,Street - next to the curbside,no,no,Side,1,4.0,no,yes,2.0,no,no,3.0
+184,54c9871b-2aad-4731-8da6-415a7955cd28,"Camino Real a San Andrés
+San Bernardino Tlaxcalancingo PUE 72824
+MX",2022-11-10 19:59:07 UTC,Carol Cázares,Carol Cázares,SRID=4326;POINT(-98.2678260562 19.035474225),19.035474225,-98.2678260562,12:47,UNL502A,5,Delivery,Automobile,1,no,"Alcoholic beverages (beer, liquor, etc.)",1 Photo,12:48,Store's garage,no,no,Rear,3,4.0,no,no,2.0,yes,no,3.0
+185,09ee2b22-0bcf-413a-80a1-d6d1faf1697e,"San Bernardino Tlaxcalancingo PUE 72824
+MX",2022-11-10 19:59:06 UTC,Carol Cázares,Carol Cázares,SRID=4326;POINT(-98.2667690982 19.0353028989),19.0353028989,-98.2667690982,12:42,NZN8789,5,Sales & delivery,Automobile,2,no,"Bakery (bread, cookies, cakes, etc.)",1 Photo,12:45,Street - next to the curbside,no,no,Side,2,4.0,no,no,2.0,no,no,3.0
+186,8afaf0f0-7de8-457c-b165-a36b53363c66,"605 Avenida 5 Oriente
+Puebla PUE 72000
+MX",2022-11-10 18:03:47 UTC,Emilio Garza,Emilio Garza,SRID=4326;POINT(-98.1953289013 19.0405816752),19.0405816752,-98.1953289013,11:50,Tuv109a,Coca cola ,Sales (usually small car or motorcycle),Automobile,1,no,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,12:02,Street - next to the curbside,no,no,Side,0,4.0,no,no,2.0,no,no,3.0
+187,01ca43a6-1a2e-49f5-b949-749c89263d3b,"414 Avenida 2 Oriente
+Puebla PUE 72000
+MX",2022-11-10 17:57:09 UTC,Emilio Garza,Emilio Garza,SRID=4326;POINT(-98.1938831401 19.0430459701),19.0430459701,-98.1938831401,10:25,XE-9923-ª,no ,Delivery,Pick-up,1,no,Nonfood,1 Photo,10:28,Street - next to the curbside,yes,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+188,e3de2e0f-79f4-4698-a6e4-064aa921a5fb,"102 Boulevard Interamericano
+San Bernardino Tlaxcalancingo PUE 72070
+MX",2022-11-10 17:36:58 UTC,Mariana Sáenz Gómez Ortigoza,Mariana Sáenz Gómez Ortigoza,SRID=4326;POINT(-98.2743124083 18.9992696699),18.9992696699,-98.2743124083,11:30,LE-49-828,Bonafont ,Delivery,Heavy duty truck,2,no,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,12:00,Street - next to the curbside,yes,no,Side,0,1.0,no,no,2.0,no,no,3.0
+189,75037107-c676-446a-ba1d-ab04881a6f67,"102 Boulevard Interamericano
+San Bernardino Tlaxcalancingo PUE 72070
+MX",2022-11-10 17:36:34 UTC,José López,José López,SRID=4326;POINT(-98.2740617731 18.9994229889),18.9994229889,-98.2740617731,11:32,SP-12-917,Factory Blinds ,Delivery,Light truck or Van,1,no,Curtains and blinds ,1 Photo,11:50,Public parking lot,no,no,Rear,0,1.0,no,no,2.0,no,no,3.0
+190,3b3b959a-bc54-4825-8d79-f8e957a0355b,"Boulevard los Reyes
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 17:26:24 UTC,Mariana Sáenz Gómez Ortigoza,Mariana Sáenz Gómez Ortigoza,SRID=4326;POINT(-98.2656696569 19.0061102975),19.0061102975,-98.2656696569,11:30,SK-79-911,Coca-cola,Delivery,Heavy duty truck,2,no,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,11:45,Street - next to the curbside,yes,no,Side,1,1.0,yes,no,2.0,yes,no,3.0
+191,1464422d-78c5-4cfa-afa6-5bf569e882d2,"6432 9 Avenida del Castillo
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 17:22:47 UTC,Mariana Sáenz Gómez Ortigoza,Mariana Sáenz Gómez Ortigoza,SRID=4326;POINT(-98.2656102226 19.0059181653),19.0059181653,-98.2656102226,11:25,SI-79-791,Lyncott,Delivery,Heavy duty truck,2,no,"Dairy (milk, cheese, etc.)",1 Photo,11:43,Street - next to the curbside,no,no,Rear,1,1.0,no,no,2.0,no,no,3.0
+192,98008626-eea4-4f9a-ab80-de6e7c716207,"Boulevard los Reyes
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 17:21:59 UTC,José López,José López,SRID=4326;POINT(-98.2656470128 19.0060885297),19.0060885297,-98.2656470128,11:18,SUD-88-59,Maruchan,Delivery,Light truck or Van,2,no,Pasta ,1 Photo,11:40,Public parking lot,no,no,Rear,1,1.0,no,no,2.0,no,no,3.0
+193,897dd608-be28-4337-b503-5dc70df1e2de,"47 Calle Rincón de Londrés
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 17:12:13 UTC,José López,José López,SRID=4326;POINT(-98.2664863187 19.0041055733),19.0041055733,-98.2664863187,11:08,SP-35-196,Barcel,Delivery,Light truck or Van,2,no,Snacks ,1 Photo,11:40,Public parking lot,no,no,Side,1,1.0,no,no,2.0,no,no,3.0
+194,d53e75b4-8ee0-4fa1-9afc-aa6a595f2c4e,"5509 Avenida del Castillo
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 17:07:36 UTC,Mariana Sáenz Gómez Ortigoza,Mariana Sáenz Gómez Ortigoza,SRID=4326;POINT(-98.2665055835 19.0040782142),19.0040782142,-98.2665055835,11:30,SN-24-270,La postrería,Delivery,Light truck or Van,1,yes,"Bakery (bread, cookies, cakes, etc.),Other",1 Photo,11:48,Street - next to the curbside,yes,no,Rear,0,4.0,yes,no,2.0,no,no,3.0
+195,fc071255-4719-452d-9a71-dc93303e5891,"Boulevard Interamericano
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 17:07:23 UTC,Mariana Sáenz Gómez Ortigoza,José López,SRID=4326;POINT(-98.2748194505 18.9995542997),18.9995542997,-98.2748194505,11:05,NW-5910-B,Clínica Veterinaria Angelopolis,Delivery,Light truck or Van,2,no,Pets,1 Photo,11:55,Public parking lot,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+196,f9dd984b-722a-4c26-aaef-d8ad2dff57b6,"5501 Avenida del Castillo
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 17:06:39 UTC,José López,José López,SRID=4326;POINT(-98.2662116407 19.0045138808),19.0045138808,-98.2662116407,10:40,SN-62-925,Corporativo Industrial ,Delivery,Light truck or Van,1,no,"Meat (beef, poultry, pork, seafood, etc.)",1 Photo,11:00,Public parking lot,no,no,Rear,1,1.0,no,no,2.0,no,no,3.0
+197,94b03890-ef1b-4e87-bf0d-42bb64babb73,"5501 Avenida del Castillo
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 17:02:34 UTC,Mariana Sáenz Gómez Ortigoza,Mariana Sáenz Gómez Ortigoza,SRID=4326;POINT(-98.266176348 19.0045315432),19.0045315432,-98.266176348,10:55,SN-26-707,La Medina,Delivery,Light truck or Van,1,no,"Personal care (shampoo, soap, etc.)",1 Photo,11:28,Public parking lot,no,no,Side,1,1.0,no,no,2.0,no,no,3.0
+198,0494e54e-1037-4788-9e37-b6bab949011b,"5501 Avenida del Castillo
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 17:01:55 UTC,José López,José López,SRID=4326;POINT(-98.2661956084 19.0044549387),19.0044549387,-98.2661956084,10:58,LE-98-646,LALA,Delivery,Heavy duty truck,2,yes,"Dairy (milk, cheese, etc.)",1 Photo,11:21,Street - next to the curbside,no,no,Side,1,1.0,no,no,2.0,no,yes,3.0
+199,49b79862-d297-4391-bc6e-3e6d8b32d54a,"Boulevard Interamericano
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 16:48:45 UTC,José López,José López,SRID=4326;POINT(-98.2748213411 18.9995738631),18.9995738631,-98.2748213411,10:47,SP-14-383,Voila ,Delivery,Light truck or Van,1,no,"Dairy (milk, cheese, etc.),Other",1 Photo,11:34,Public parking lot,no,no,Rear,0,1.0,no,no,2.0,no,no,3.0
+200,7e301ca0-760e-4dbc-bd53-626e4447fb89,"Boulevard Interamericano
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 16:41:18 UTC,Mariana Sáenz Gómez Ortigoza,Mariana Sáenz Gómez Ortigoza,SRID=4326;POINT(-98.2719573354 19.0018587687),19.0018587687,-98.2719573354,09:15,SP-07-568,Tintosmart ,Delivery,Light truck or Van,1,no,Clothes ,1 Photo,11:25,Public parking lot,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+201,be7db0e0-83ad-4486-aa8f-7d31402c2b92,"Boulevard Interamericano
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 16:38:32 UTC,Mariana Sáenz Gómez Ortigoza,Mariana Sáenz Gómez Ortigoza,SRID=4326;POINT(-98.2719351122 19.001804982),19.001804982,-98.2719351122,10:45,30ARU9,Abastessen ,Delivery,Light truck or Van,1,no,"Meat (beef, poultry, pork, seafood, etc.)",1 Photo,11:17,Public parking lot,no,no,Rear,1,1.0,no,no,2.0,no,no,3.0
+202,27bd6132-61df-496d-b780-9db89359dfc8,"Boulevard Interamericano
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 16:37:34 UTC,José López,José López,SRID=4326;POINT(-98.2718366883 19.0017792847),19.0017792847,-98.2718366883,10:34,TMK-54-66,La central ,Delivery,Light truck or Van,2,no,Produce (fruits & vegetables),1 Photo,11:00,Public parking lot,no,no,Rear,0,1.0,no,no,2.0,no,no,3.0
+203,e648abf8-df90-46a2-af06-ee5d9662078d,"Private Road
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 16:25:35 UTC,Mariana Sáenz Gómez Ortigoza,Mariana Sáenz Gómez Ortigoza,SRID=4326;POINT(-98.2671270711 19.0054323353),19.0054323353,-98.2671270711,10:30,UCU-271-A,5,Delivery,Automobile,1,no,Produce (fruits & vegetables),1 Photo,10:48,Street - next to the curbside,no,no,Side,0,1.0,no,no,2.0,no,no,3.0
+204,cfb746bd-5e38-4361-9f45-be1af04f11da,"Private Road
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 16:20:02 UTC,Mariana Sáenz Gómez Ortigoza,Mariana Sáenz Gómez Ortigoza,SRID=4326;POINT(-98.2675894663 19.005672101),19.005672101,-98.2675894663,09:30,SM-71-921,Tripoli ,Delivery,Light truck or Van,2,no,Food ,2 Photos,10:15,Public parking lot,no,no,Rear,0,1.0,no,no,2.0,no,no,3.0
+205,bdd67e61-886a-45ca-ad5c-2422505548ae,"Private Road
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 16:16:44 UTC,Mariana Sáenz Gómez Ortigoza,Mariana Sáenz Gómez Ortigoza,SRID=4326;POINT(-98.2676078903 19.0056275995),19.0056275995,-98.2676078903,09:25,SL-32-364,La Concordia ,Delivery,Heavy duty truck,2,no,Decorations,1 Photo,11:00,Public parking lot,no,no,Rear,1,4.0,no,no,2.0,no,no,3.0
+206,a626a0df-ca03-4bc9-b0c7-9d1df43daafa,"Private Road
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 16:16:23 UTC,José López,José López,SRID=4326;POINT(-98.2676258041 19.0056427428),19.0056427428,-98.2676258041,10:10,72-AX-6J,TUMSA,Delivery,Heavy duty truck,4,yes,"Bakery (bread, cookies, cakes, etc.)",2 Photos,10:30,Public parking lot,no,no,Side,1,1.0,no,no,2.0,no,no,3.0
+207,e5083ea9-1726-4da7-bae0-86ed1cfbc192,"Private Road
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 16:13:01 UTC,Mariana Sáenz Gómez Ortigoza,Mariana Sáenz Gómez Ortigoza,SRID=4326;POINT(-98.267560852 19.005722126),19.005722126,-98.267560852,10:00,SJ-79-906,5,Sales & delivery,Pick-up,2,no,Produce (fruits & vegetables),1 Photo,10:35,Dedicated unloading area (Bay),no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+208,ceee2028-433b-40c5-88b1-7260450b06bd,"5501 Avenida del Castillo
+San Bernardino Tlaxcalancingo PUE 72810
+MX",2022-11-10 15:42:35 UTC,José López,José López,SRID=4326;POINT(-98.2673140057 19.0030170232),19.0030170232,-98.2673140057,09:48,IM-1424,San Pablo ,Delivery,Motorcycle,1,no,"Personal care (shampoo, soap, etc.)",1 Photo,09:49,Public parking lot,no,no,Rear,1,4.0,no,no,2.0,no,no,3.0
+209,119a1eaf-2d72-4792-94dd-23451e9daaec,"5501 Avenida del Castillo
+San Bernardino Tlaxcalancingo PUE 72840
+MX",2022-11-10 15:42:20 UTC,José López,José López,SRID=4326;POINT(-98.2668296994 19.0041137953),19.0041137953,-98.2668296994,09:36,SN-78-089,Tamales Don Ignacio ,Sales (usually small car or motorcycle),Pick-up,2,no,"Bakery (bread, cookies, cakes, etc.)",1 Photo,21:41,Public parking lot,no,no,Rear,0,1.0,no,no,2.0,no,no,3.0
+210,819d757b-a60b-400b-b2ab-6d1d2a0d6775,"Avenida Triangulum
+San Bernardino Tlaxcalancingo PUE 72835
+MX",2022-11-10 00:01:27 UTC,Leoncio Mora Díaz,Leoncio Mora Díaz,SRID=4326;POINT(-98.2490172869 19.0252949509),19.0252949509,-98.2490172869,15:59,5448CM,Pepsi,Delivery,Heavy duty truck,3,no,"Non-alcoholic beverages (water, soda, etc.)",2 Photos,16:03,Street - next to the curbside,yes,no,Side,1,4.0,no,no,2.0,no,no,3.0
+211,020550f6-8a3a-4778-a4b6-2bf4595b08a4,"521 Avenida Venustiano Carranza
+San Bernardino Tlaxcalancingo PUE 72836
+MX",2022-11-10 00:01:26 UTC,Leoncio Mora Díaz,Leoncio Mora Díaz,SRID=4326;POINT(-98.2494395971 19.0269015047),19.0269015047,-98.2494395971,15:50,SN72248,5,Delivery,Pick-up,1,no,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,15:51,Street - next to the curbside,no,no,Rear,1,4.0,no,no,2.0,no,no,3.0
+212,bfd5eadb-d5e5-4499-95fe-c4d299588b38,"248 Calle Gustavo Díaz Ordaz
+San Bernardino Tlaxcalancingo PUE 72836
+MX",2022-11-10 00:01:25 UTC,Leoncio Mora Díaz,Leoncio Mora Díaz,SRID=4326;POINT(-98.2498399168 19.0264634674),19.0264634674,-98.2498399168,15:44,97TFG1,5,Delivery,Motorcycle,1,no,"Dairy (milk, cheese, etc.)",2 Photos,15:46,On top of a sidewalk,yes,no,Side,0,4.0,no,no,2.0,no,no,3.0
+213,9fe0f2da-28c4-4fe3-bb1b-574276e16560,"217 Calle Gustavo Díaz Ordaz
+San Bernardino Tlaxcalancingo PUE 72836
+MX",2022-11-10 00:01:24 UTC,Leoncio Mora Díaz,Leoncio Mora Díaz,SRID=4326;POINT(-98.2499674405 19.0264441666),19.0264441666,-98.2499674405,15:38,5964A1,Rappi ,Sales & delivery,Motorcycle,1,no,"Bakery (bread, cookies, cakes, etc.)",2 Photos,15:40,Street - next to the curbside,no,no,Side,0,4.0,no,no,2.0,no,no,3.0
+214,59855240-c3e3-4ad1-b96e-0000978ace00,"4–1634 Avenida Venustiano Carranza
+San Bernardino Tlaxcalancingo PUE 72835
+MX",2022-11-10 00:01:24 UTC,Leoncio Mora Díaz,Leoncio Mora Díaz,SRID=4326;POINT(-98.2490748167 19.0255766128),19.0255766128,-98.2490748167,15:19,XB55982,Compañía López ,Sales (usually small car or motorcycle),Light truck or Van,4,no,"Non-alcoholic beverages (water, soda, etc.)",2 Photos,15:22,Street - next to the curbside,no,no,Side,0,4.0,no,no,2.0,no,no,3.0
+215,d0b61140-d93b-4560-96a3-4e0e8b3e869a,"5509 Avenida del Castillo
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 00:01:18 UTC,José López,José López,SRID=4326;POINT(-98.2665612374 19.0039857829),19.0039857829,-98.2665612374,08:00,SJ-79-906,La sagrada (frutería),Delivery,Light truck or Van,2,no,Produce (fruits & vegetables),2 Photos,16:00,Store's garage,no,no,Rear,1,4.0,no,no,2.0,no,no,3.0
+216,7b990a50-a423-44ec-b328-4b315c91c032,"59 Calle Rincón de París
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 00:01:17 UTC,José López,José López,SRID=4326;POINT(-98.2662437212 19.0041961042),19.0041961042,-98.2662437212,10:33,SN-70-192,Tudogar,Delivery,Heavy duty truck,3,no,Hardware store ,2 Photos,11:09,Public parking lot,no,no,Rear,1,4.0,no,no,2.0,no,no,3.0
+217,afd0a431-073c-464f-8277-891031fe5ac8,"47 Calle Rincón de Londrés
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 00:01:17 UTC,José López,José López,SRID=4326;POINT(-98.2662340221 19.0041629876),19.0041629876,-98.2662340221,10:30,TWC-596-A,Acento Mexicano,Delivery,Light truck or Van,1,no,Flowers,2 Photos,11:00,Public parking lot,yes,no,Rear,1,4.0,no,no,2.0,yes,no,3.0
+218,1e6230db-2501-40f8-b0b1-58ab4911acff,"47 Calle Rincón de Londrés
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 00:01:16 UTC,José López,José López,SRID=4326;POINT(-98.2662793322 19.0041721213),19.0041721213,-98.2662793322,10:18,NV-5302-A,Súper Boom,Delivery,Heavy duty truck,2,no,"Non-alcoholic beverages (water, soda, etc.)",2 Photos,10:40,Street - next to the curbside,no,no,Side,1,4.0,no,no,2.0,no,yes,3.0
+219,6f77004f-6644-4006-83cb-b9f733828c39,"500 Avenida del Castillo
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 00:01:16 UTC,José López,José López,SRID=4326;POINT(-98.2664003171 19.0046903643),19.0046903643,-98.2664003171,10:11,XE-4568-A,Magenta ,Delivery,Light truck or Van,1,yes,Flowers,1 Photo,10:40,Public parking lot,no,no,Rear,1,4.0,no,no,2.0,no,no,3.0
+220,642c1e0e-7d94-420b-897a-5cb6706b29f9,"5509 Avenida del Castillo
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 00:01:15 UTC,José López,José López,SRID=4326;POINT(-98.2667735124 19.0039821755),19.0039821755,-98.2667735124,09:59,SP-35-196,Barcel ,Delivery,Light truck or Van,1,no,"Bakery (bread, cookies, cakes, etc.)",1 Photo,10:26,Public parking lot,no,no,Rear,1,4.0,no,no,2.0,no,no,3.0
+221,db1d6420-489b-4485-af34-9d62051db63b,"500 Avenida del Castillo
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 00:01:14 UTC,José López,José López,SRID=4326;POINT(-98.2665526775 19.0044321818),19.0044321818,-98.2665526775,09:20,A-552AD,Fanasa,Delivery,SUV,2,yes,Fármacos ,2 Photos,09:27,Street - next to the curbside,no,no,Side,1,4.0,no,no,2.0,no,no,3.0
+222,bdbf7953-5464-4419-a75b-54dca2cc4afa,"47 Calle Rincón de Londrés
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 00:00:45 UTC,Mariana Sáenz Gómez Ortigoza,Mariana Sáenz Gómez Ortigoza,SRID=4326;POINT(-98.2662978391 19.004184923),19.004184923,-98.2662978391,10:12,SM-28-393,Clínica Veterinaria ,Delivery,Light truck or Van,1,no,"Personal care (shampoo, soap, etc.)",1 Photo,10:30,Public parking lot,no,no,Side,1,4.0,no,no,2.0,no,no,3.0
+223,d663b7db-61d0-4f7d-82c8-9c9a7242155a,"Avenida del Castillo
+San Bernardino Tlaxcalancingo PUE 72830
+MX",2022-11-10 00:00:44 UTC,Mariana Sáenz Gómez Ortigoza,Mariana Sáenz Gómez Ortigoza,SRID=4326;POINT(-98.2669509996 19.0037832421),19.0037832421,-98.2669509996,09:40,SM-11-782,Súper Boom,Delivery,Heavy duty truck,2,no,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,10:15,Street - next to the curbside,no,no,Side,1,4.0,no,no,2.0,no,no,3.0
+224,a5ce5448-57e7-4dd5-a07b-e726c6b12540,"6 Boulevard Licenciado G. Díaz Ordaz
+Tlaxcalancingo Puebla 72810
+México",2022-11-09 23:59:34 UTC,Adriel Antonio Huerta Vidal,Adriel Antonio Huerta Vidal,SRID=4326;POINT(-98.260704 19.0221294),19.0221294,-98.260704,09:00,SP37423,5,Delivery,Pick-up,4,no,Produce (fruits & vegetables),1 Photo,10:56,Street - next to the curbside,no,no,Rear,1,4.0,no,no,2.0,no,no,3.0
+225,f23f76f3-debc-470d-b5ca-3ad26183baf3,"10 Boulevard Licenciado G. Díaz Ordaz
+Tlaxcalancingo Puebla 72810
+México",2022-11-09 23:59:34 UTC,Adriel Antonio Huerta Vidal,Adriel Antonio Huerta Vidal,SRID=4326;POINT(-98.2608584 19.0222526),19.0222526,-98.2608584,09:54,SN26022,5,Sales & delivery,Pick-up,1,no,"Bakery (bread, cookies, cakes, etc.),Paper Goods (paper towels, toilet paper, etc.)",1 Photo,10:30,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+226,ca1b4057-6628-4b63-8a1f-0864d7b5a8ce,"851 Avenida Orión Sur
+Tlaxcalancingo Puebla 72810
+México",2022-11-09 23:59:33 UTC,Adriel Antonio Huerta Vidal,Adriel Antonio Huerta Vidal,SRID=4326;POINT(-98.259917 19.0221078),19.0221078,-98.259917,07:52,XB79776,5,Sales & delivery,Pick-up,2,no,"Alcoholic beverages (beer, liquor, etc.),Meat (beef, poultry, pork, seafood, etc.),Produce (fruits & vegetables)",1 Photo,17:54,Street - next to the curbside,no,no,Rear,1,4.0,no,no,2.0,no,no,3.0
+227,65966208-4e2f-47cb-a027-901aecab158e,"3 UC1
+Tlaxcalancingo Puebla 72810
+México",2022-11-09 23:59:33 UTC,Adriel Antonio Huerta Vidal,Adriel Antonio Huerta Vidal,SRID=4326;POINT(-98.2613098 19.0223355),19.0223355,-98.2613098,08:15,HE5614F,5,Sales & delivery,Pick-up,4,no,"Alcoholic beverages (beer, liquor, etc.),Meat (beef, poultry, pork, seafood, etc.),Non-alcoholic beverages (water, soda, etc.),Produce (fruits & vegetables)",2 Photos,18:30,Street - next to the curbside,no,no,Rear,1,4.0,no,no,2.0,no,no,3.0
+228,59b17d95-11e8-4c02-8c72-467c83008d45,"2 UC1
+Tlaxcalancingo Puebla 72810
+México",2022-11-09 23:59:32 UTC,Adriel Antonio Huerta Vidal,Adriel Antonio Huerta Vidal,SRID=4326;POINT(-98.2614833 19.0224584),19.0224584,-98.2614833,07:23,XB79776,5,Sales & delivery,Pick-up,2,no,"Alcoholic beverages (beer, liquor, etc.),Bakery (bread, cookies, cakes, etc.),Meat (beef, poultry, pork, seafood, etc.),Non-alcoholic beverages (water, soda, etc.)",1 Photo,17:24,Street - next to the curbside,no,no,Rear,1,4.0,no,no,2.0,no,no,3.0
+229,e9ecb408-fb5c-44d4-889b-be1653ffcef0,"340 Boulevard Gustavo Díaz Ordaz
+Tlaxcalancingo Puebla 72810
+México",2022-11-09 23:59:32 UTC,Adriel Antonio Huerta Vidal,Adriel Antonio Huerta Vidal,SRID=4326;POINT(-98.2615151 19.0226014),19.0226014,-98.2615151,08:20,31TEU1,5,Sales & delivery,Motorcycle,1,no,"Meat (beef, poultry, pork, seafood, etc.),Non-alcoholic beverages (water, soda, etc.)",1 Photo,16:21,On top of a sidewalk,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+230,46479b94-5add-4c12-83b9-0eefe0c36a07,"451 Boulevard Gustavo Díaz Ordaz
+Tlaxcalancingo Puebla 72810
+México",2022-11-09 23:59:31 UTC,Adriel Antonio Huerta Vidal,Adriel Antonio Huerta Vidal,SRID=4326;POINT(-98.2615813 19.0225792),19.0225792,-98.2615813,11:19,F77BV,5,Sales & delivery,Motorcycle,1,no,Produce (fruits & vegetables),1 Photo,13:20,On top of a sidewalk,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+231,ae7f7abb-1295-4017-ba13-d7509b5cfb96,"105 Marte
+Tlaxcalancingo Puebla 72810
+México",2022-11-09 23:59:31 UTC,Adriel Antonio Huerta Vidal,Adriel Antonio Huerta Vidal,SRID=4326;POINT(-98.2625225 19.0196414),19.0196414,-98.2625225,11:16,76ERH9,5,Sales (usually small car or motorcycle),Motorcycle,1,no,"Meat (beef, poultry, pork, seafood, etc.)",1 Photo,11:24,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+232,4aced0bd-0fb6-4d7e-838c-57bd75f6905c,"81 Marte
+Tlaxcalancingo Puebla 72810
+México",2022-11-09 23:59:30 UTC,Adriel Antonio Huerta Vidal,Adriel Antonio Huerta Vidal,SRID=4326;POINT(-98.262539 19.0190991),19.0190991,-98.262539,08:35,SP29935,5,Sales & delivery,Pick-up,4,no,"Alcoholic beverages (beer, liquor, etc.),Bakery (bread, cookies, cakes, etc.),Meat (beef, poultry, pork, seafood, etc.),Non-alcoholic beverages (water, soda, etc.),Produce (fruits & vegetables)",2 Photos,17:14,Street - next to the curbside,no,no,Rear,1,4.0,no,no,2.0,no,no,3.0
+233,a05b3520-f314-4272-9cbb-ffbd12c2f478,"563 Avenida Orión Sur
+San Andrés Cholula Puebla 72825
+México",2022-11-09 23:59:30 UTC,Adriel Antonio Huerta Vidal,Adriel Antonio Huerta Vidal,SRID=4326;POINT(-98.2611618 19.0199367),19.0199367,-98.2611618,08:18,SK25778,5,Sales & delivery,Pick-up,2,no,"Alcoholic beverages (beer, liquor, etc.),Bakery (bread, cookies, cakes, etc.),Meat (beef, poultry, pork, seafood, etc.),Non-alcoholic beverages (water, soda, etc.),Produce (fruits & vegetables)",1 Photo,15:11,Street - next to the curbside,no,no,Rear,1,4.0,no,no,2.0,yes,no,3.0
+234,e3efcbed-84d5-44be-9113-acff71646a25,"543A Avenida Orión Sur
+Tlaxcalancingo Puebla 72810
+México",2022-11-09 23:59:29 UTC,Adriel Antonio Huerta Vidal,Adriel Antonio Huerta Vidal,SRID=4326;POINT(-98.2610105 19.0203189),19.0203189,-98.2610105,08:09,2894I,5,Sales & delivery,Motorcycle,1,no,"Bakery (bread, cookies, cakes, etc.),Produce (fruits & vegetables)",1 Photo,00:09,Street - next to the curbside,no,no,Rear,1,4.0,no,no,2.0,no,no,3.0
+235,f2194813-4114-4b07-9e73-9e7931e278c3,1,2022-11-09 23:59:29 UTC,Adriel Antonio Huerta Vidal,Adriel Antonio Huerta Vidal,SRID=4326;POINT(-98.255475 19.0271875),19.0271875,-98.255475,09:03,XB20969,5,Sales & delivery,Pick-up,2,no,"Bakery (bread, cookies, cakes, etc.),Meat (beef, poultry, pork, seafood, etc.),Non-alcoholic beverages (water, soda, etc.),Produce (fruits & vegetables)",1 Photo,02:04,Street - next to the curbside,no,no,Rear,1,4.0,no,no,2.0,yes,no,3.0
+236,fd4ac2f1-4b61-4853-aaf3-4ae0ffb240d0,"1017D Calle Mira
+Tlaxcalancingo Puebla 72197
+México",2022-11-09 23:59:28 UTC,Adriel Antonio Huerta Vidal,Adriel Antonio Huerta Vidal,SRID=4326;POINT(-98.2551571 19.0283016),19.0283016,-98.2551571,09:00,622-WMX,5,Sales & delivery,Automobile,2,no,"Bakery (bread, cookies, cakes, etc.),Meat (beef, poultry, pork, seafood, etc.),Produce (fruits & vegetables)",1 Photo,01:01,Street - next to the curbside,no,no,Rear,1,4.0,no,no,2.0,no,no,3.0
+237,056ec771-c48f-4021-b8dd-85016b69a2c6,"3068 Calle Orión Norte
+Tlaxcalancingo Puebla 72197
+México",2022-11-09 23:59:26 UTC,Adriel Antonio Huerta Vidal,Adriel Antonio Huerta Vidal,SRID=4326;POINT(-98.2564437 19.0295166),19.0295166,-98.2564437,10:55,HGK203A,5,Sales (usually small car or motorcycle),Automobile,2,no,"Bakery (bread, cookies, cakes, etc.),Non-alcoholic beverages (water, soda, etc.)",1 Photo,01:35,Street - next to the curbside,no,no,Rear,1,4.0,no,no,2.0,no,no,3.0
+238,575833b2-4bd7-4eb2-9216-dd6383f01001,"720 Calle Orión Norte
+Tlaxcalancingo Puebla 72810
+México",2022-11-09 23:59:25 UTC,Adriel Antonio Huerta Vidal,Adriel Antonio Huerta Vidal,SRID=4326;POINT(-98.258336 19.027931),19.027931,-98.258336,10:33,GJZ2J,5,Sales (usually small car or motorcycle),Motorcycle,1,no,"Meat (beef, poultry, pork, seafood, etc.),Produce (fruits & vegetables)",2 Photos,14:53,Street - next to the curbside,no,yes,Rear,1,4.0,no,no,2.0,no,no,3.0
+239,0dd3bd22-6c62-47b7-a25e-735959b7cc13,"966 Calle Orión Norte
+Tlaxcalancingo Puebla 72810
+México",2022-11-09 23:59:25 UTC,Adriel Antonio Huerta Vidal,Adriel Antonio Huerta Vidal,SRID=4326;POINT(-98.2614064 19.0240386),19.0240386,-98.2614064,10:48,GJK71A,5,Sales (usually small car or motorcycle),Motorcycle,1,no,"Meat (beef, poultry, pork, seafood, etc.)",1 Photo,14:48,Street - next to the curbside,no,no,Side,0,4.0,no,no,2.0,no,no,3.0
+240,cf894032-717d-4874-bd8a-6ceed1147269,"6 Avenida Orion Norte
+Tlaxcalancingo Puebla 72197
+México",2022-11-09 23:59:24 UTC,Adriel Antonio Huerta Vidal,Adriel Antonio Huerta Vidal,SRID=4326;POINT(-98.2614156 19.0239537),19.0239537,-98.2614156,10:46,1H3YD,5,Sales (usually small car or motorcycle),Motorcycle,1,no,"Meat (beef, poultry, pork, seafood, etc.)",1 Photo,14:52,Street - next to the curbside,no,no,Side,0,4.0,no,no,2.0,no,no,3.0
+241,4cd091cd-d37c-4bbe-9cda-2af711884231,"11 Serafines
+Tlaxcalancingo Puebla 72810
+México",2022-11-09 23:59:24 UTC,Adriel Antonio Huerta Vidal,Adriel Antonio Huerta Vidal,SRID=4326;POINT(-98.2610514 19.0246879),19.0246879,-98.2610514,09:10,SN-77-136,5,Delivery,Light truck or Van,2,no,"Bakery (bread, cookies, cakes, etc.),Meat (beef, poultry, pork, seafood, etc.)",1 Photo,14:30,Street - next to the curbside,no,no,Rear,1,4.0,no,no,2.0,no,no,3.0
+242,d7c4d4f6-17e8-42e1-94d6-e2afb9ff95de,"10 Boulevard Licenciado G. Díaz Ordaz
+Tlaxcalancingo Puebla 72810
+México",2022-11-09 23:59:23 UTC,Adriel Antonio Huerta Vidal,Adriel Antonio Huerta Vidal,SRID=4326;POINT(-98.2608733 19.0223633),19.0223633,-98.2608733,10:57,SC-1394-C,5,Delivery,Light truck or Van,2,no,"Dairy (milk, cheese, etc.)",1 Photo,11:10,Street - next to the curbside,yes,no,Rear,1,4.0,no,no,2.0,yes,no,3.0
+243,b11d4824-82e7-4a6f-9f4e-d903d991ca94,"4B Boulevard Licenciado G. Díaz Ordaz
+Tlaxcalancingo Puebla 72810
+México",2022-11-09 23:59:23 UTC,Adriel Antonio Huerta Vidal,Adriel Antonio Huerta Vidal,SRID=4326;POINT(-98.2605816 19.022034),19.022034,-98.2605816,10:58,XL-6899-A,5,Delivery,Automobile,2,no,Produce (fruits & vegetables),1 Photo,11:36,Street - next to the curbside,yes,no,Rear,0,4.0,no,no,2.0,yes,yes,3.0
+244,1d41755a-bd38-4134-9e70-bdd8750603ab,"1 Uc II
+Tlaxcalancingo Puebla 72810
+México",2022-11-09 23:59:22 UTC,Adriel Antonio Huerta Vidal,Adriel Antonio Huerta Vidal,SRID=4326;POINT(-98.2605728 19.022007),19.022007,-98.2605728,09:10,SN-77-820,5,Delivery,Automobile,5,no,"Bakery (bread, cookies, cakes, etc.)",1 Photo,14:00,Street - next to the curbside,no,no,Rear,2,4.0,no,no,2.0,no,no,3.0
+245,3c3bdaef-823f-4a7a-ab1b-9392b933c628,"4 Querubines
+Tlaxcalancingo Puebla 72810
+México",2022-11-09 23:59:22 UTC,Adriel Antonio Huerta Vidal,Adriel Antonio Huerta Vidal,SRID=4326;POINT(-98.2604477 19.0220533),19.0220533,-98.2604477,10:56,OPU-213,5,Delivery,Light truck or Van,3,no,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,10:12,Street - next to the curbside,yes,no,Side,2,4.0,no,no,2.0,yes,no,3.0
+246,ac6e6a8c-23c2-4e96-bfb4-48f84ee3df5c,"15 San Martín Texmelucan
+Heroica Puebla de Zaragoza Puebla 72160
+Mexico",2022-11-09 23:58:28 UTC,Juan Carlos Bejarano Moreno,Juan Carlos Bejarano Moreno,SRID=4326;POINT(-98.2280428 19.059749),19.059749,-98.2280428,09:15,No disponible ,No,Delivery,Light truck or Van,2,yes,"Nonfood,Produce (fruits & vegetables)",1 Photo,09:32,Street - next to the curbside,yes,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+247,2fe520ae-68e7-47e3-ba73-f3a9f61a7a53,"130 Calle 55 Sur
+Heroica Puebla de Zaragoza Puebla 72160
+Mexico",2022-11-09 23:58:28 UTC,Juan Carlos Bejarano Moreno,Juan Carlos Bejarano Moreno,SRID=4326;POINT(-98.2346855 19.0626148),19.0626148,-98.2346855,09:00,Xx54116,Pepsi,Delivery,Heavy duty truck,1,no,"Non-alcoholic beverages (water, soda, etc.)",2 Photos,09:25,Street - next to the curbside,no,no,Side,2,4.0,no,no,2.0,no,no,3.0
+248,30592f94-7c26-4d87-932e-a91c1e3b436a,"23 Calle Oriental
+Heroica Puebla de Zaragoza Puebla 72160
+Mexico",2022-11-09 23:58:27 UTC,Juan Carlos Bejarano Moreno,Juan Carlos Bejarano Moreno,SRID=4326;POINT(-98.2320416 19.0565655),19.0565655,-98.2320416,08:55,SH61529,Astrett,Sales (usually small car or motorcycle),Pick-up,2,no,Nonfood,2 Photos,09:15,Store's garage,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+249,cd694ab5-be33-4785-875e-d543310f4fcb,"no. 85 Avenida Teziutlan Norte
+Heroica Puebla de Zaragoza Puebla 72160
+Mexico",2022-11-09 23:58:26 UTC,Juan Carlos Bejarano Moreno,Juan Carlos Bejarano Moreno,SRID=4326;POINT(-98.2294284 19.0578975),19.0578975,-98.2294284,08:01,22J 221,Lala,Delivery,Light truck or Van,2,yes,"Dairy (milk, cheese, etc.)",2 Photos,08:25,Public parking lot,no,no,Side,0,4.0,no,no,2.0,no,no,3.0
+250,e806e605-ea7a-4fca-9c3a-471126f1e359,"9005 Calle Sierra de Guadarrama
+Puebla PUE 72220
+MX",2022-11-09 23:19:15 UTC,Amaranta Hernández,Amaranta Hernández,SRID=4326;POINT(-98.1646579877 19.0703939264),19.0703939264,-98.1646579877,12:00,SN-21-441,5,Delivery,Pick-up,2,no,"Alcoholic beverages (beer, liquor, etc.)",1 Photo,12:25,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,yes,no,3.0
+251,5fe81df3-4f0f-4539-962e-32a81feb5010,"9013 Calle Sierra de los Pirineos
+Puebla PUE 72220
+MX",2022-11-09 23:19:14 UTC,Amaranta Hernández,Amaranta Hernández,SRID=4326;POINT(-98.168082498 19.0732125097),19.0732125097,-98.168082498,11:00,XU-58-302,Pepsi ,Delivery,Heavy duty truck,2,no,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,11:53,Street - next to the curbside,no,no,Side,2,4.0,no,no,2.0,no,no,3.0
+252,dd5d90f2-f8d5-4cc1-8112-f92ccb29be5f,"60 Avenida Adolfo López Mateos
+Heroica Puebla de Zaragoza Puebla 72210
+México",2022-11-09 23:13:44 UTC,Benjamin Barbosa,Benjamin Barbosa,SRID=4326;POINT(-98.1736208 19.0741106),19.0741106,-98.1736208,14:45,SN47814,CAMPRA,Delivery,Light truck or Van,2,yes,"Meat (beef, poultry, pork, seafood, etc.)",1 Photo,14:55,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+253,ee4bc4d4-c40e-4641-ad95-19002d102ed7,"64 Calle Gustavo Díaz Ordaz
+Heroica Puebla de Zaragoza Puebla 72210
+México",2022-11-09 23:13:43 UTC,Benjamin Barbosa,Benjamin Barbosa,SRID=4326;POINT(-98.1732126 19.0744375),19.0744375,-98.1732126,14:15,SM29511,DIAGONAL,Delivery,Heavy duty truck,1,no,Nonfood,1 Photo,14:39,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+254,cd9a3f38-6fef-4482-8415-bf54c87f24c2,"9002 Avenida Montes Urales
+Heroica Puebla de Zaragoza Puebla 72220
+México",2022-11-09 23:13:42 UTC,Benjamin Barbosa,Benjamin Barbosa,SRID=4326;POINT(-98.1669184193 19.0716791683),19.0716791683,-98.1669184193,09:39,LC41549,No,Delivery,Light truck or Van,1,no,"Abarrotes,Nonfood",1 Photo,09:42,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+255,dda5dde0-71ac-4d49-a19d-f9194bf76666,"502 Avenida Venustiano Carranza
+San Bernardino Tlaxcalancingo PUE 72836
+MX",2022-11-09 23:06:35 UTC,Juan Pablo Spínola,Juan Pablo Spínola,SRID=4326;POINT(-98.2493552651 19.0270377923),19.0270377923,-98.2493552651,16:01,SP01196,5,Delivery,Pick-up,1,no,"Personal care (shampoo, soap, etc.)",1 Photo,16:09,Double lane,no,no,Rear,0,1.0,no,no,2.0,no,no,3.0
+256,a9127e52-7cd5-4a1f-a966-40be4d30a1ae,"9002–9026 Avenida Montes Urales
+Puebla de Zaragoza PUE 72220
+MX",2022-11-09 22:54:24 UTC,Pedro Contreras,Pedro Contreras,SRID=4326;POINT(-98.1667601887 19.0719245551),19.0719245551,-98.1667601887,15:34,HB-1797-D,5,Delivery,Pick-up,1,no,Produce (fruits & vegetables),1 Photo,15:37,Street - next to the curbside,no,no,Side,0,4.0,no,no,2.0,no,no,3.0
+257,11b90772-fb69-429f-a47f-888536a84e53,"2036 Pirineos
+Heroica Puebla de Zaragoza Puebla 72220
+México",2022-11-09 22:53:33 UTC,Alejandro Matias,Alejandro Matias,SRID=4326;POINT(-98.1674194 19.0747741),19.0747741,-98.1674194,15:17,SL-51-096,5,Sales & delivery,Automobile,2,no,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,15:17,Street - next to the curbside,no,no,Side,0,4.0,no,no,2.0,no,no,3.0
+258,5be93e0a-207d-4d79-aeed-b1efb58471f0,"2013 Privada Sierra Tarahumara
+Heroica Puebla de Zaragoza Puebla 72220
+México",2022-11-09 22:53:32 UTC,Alejandro Matias,Alejandro Matias,SRID=4326;POINT(-98.1694718 19.0726389),19.0726389,-98.1694718,15:04,SN-56-425,RojoTomate,Sales & delivery,Light truck or Van,1,yes,Produce (fruits & vegetables),1 Photo,15:10,Street - next to the curbside,no,no,Rear,0,4.0,yes,no,2.0,no,no,3.0
+259,4b32a702-cb43-4e73-9cab-dd112f94f938,1,2022-11-09 22:53:32 UTC,Alejandro Matias,Alejandro Matias,SRID=4326;POINT(-98.1734403 19.0746375),19.0746375,-98.1734403,13:50,SP-27-463,MiCaja,Delivery,Light truck or Van,1,no,Carton,1 Photo,14:38,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+260,65676b01-d050-4548-be4e-7df1baf080fc,"2225 Cordillera Central
+Heroica Puebla de Zaragoza Puebla 72220
+México",2022-11-09 22:53:31 UTC,Alejandro Matias,Alejandro Matias,SRID=4326;POINT(-98.1673744 19.0722369),19.0722369,-98.1673744,12:49,XV-58-304,Pepsi,Delivery,Heavy duty truck,2,no,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,12:54,Street - next to the curbside,no,no,Side,1,4.0,no,no,2.0,no,no,3.0
+261,82f1047c-6277-4b79-8357-5968a5ad6683,"9002b Avenida Montes Urales
+Heroica Puebla de Zaragoza Puebla 72220
+México",2022-11-09 22:53:31 UTC,Alejandro Matias,Alejandro Matias,SRID=4326;POINT(-98.1666132 19.0720063),19.0720063,-98.1666132,12:37,SN-29-824,5,Delivery,Light truck or Van,1,no,Produce (fruits & vegetables),1 Photo,12:27,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+262,28a2af8e-8b1d-4acf-a077-0945049e826c,"Avenida Venustiano Carranza
+San Bernardino Tlaxcalancingo PUE 72835
+MX",2022-11-09 22:22:20 UTC,Luis Lara,Luis Lara,SRID=4326;POINT(-98.2490182389 19.0251449542),19.0251449542,-98.2490182389,16:12,SP-14-374,Pepsi ,Delivery,Light truck or Van,2,no,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,16:21,Street - next to the curbside,no,no,Side,2,1.0,no,no,2.0,no,no,3.0
+263,4d4b0cc1-d4c4-45f7-b756-b4a5fcb68066,"2417 Calle Cordillera de los Balcanes
+Puebla de Zaragoza PUE 72220
+MX",2022-11-09 21:33:20 UTC,Pedro Contreras,Pedro Contreras,SRID=4326;POINT(-98.1653164377 19.0721117517),19.0721117517,-98.1653164377,15:29,K44-KYG,5,Delivery,Automobile,1,no,"Dairy (milk, cheese, etc.),Meat (beef, poultry, pork, seafood, etc.),Produce (fruits & vegetables)",1 Photo,15:32,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+264,729aac9c-aa70-4c64-8f6a-851a292e81d0,"9034–9054 Avenida Montes Urales
+Puebla de Zaragoza PUE 72220
+MX",2022-11-09 21:28:01 UTC,Pedro Contreras,Pedro Contreras,SRID=4326;POINT(-98.1657873523 19.0730388751),19.0730388751,-98.1657873523,15:23,SM-58-725,MADIASA-CAT,Sales & delivery,Pick-up,1,no,Wheels,1 Photo,15:24,Double lane,yes,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+265,ce86c98a-8030-40df-8f05-560060cfa052,"2036 Privada Alpes
+Puebla de Zaragoza PUE 72220
+MX",2022-11-09 21:19:15 UTC,Pedro Contreras,Pedro Contreras,SRID=4326;POINT(-98.1674315757 19.0747634793),19.0747634793,-98.1674315757,15:17,KZ-86-754,GUERRERAS,Sales & delivery,Light truck or Van,1,no,Tortilla ,1 Photo,15:20,Double lane,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+266,3ea58be8-511d-4896-bb12-94d1bd7e7fef,"2002–2028 Privada Sierra Tarahumara
+Puebla de Zaragoza PUE 72220
+MX",2022-11-09 21:05:58 UTC,Pedro Contreras,Pedro Contreras,SRID=4326;POINT(-98.1695359843 19.0728531297),19.0728531297,-98.1695359843,15:04,6,5,Delivery,SUV,1,no,Nonfood,1 Photo,15:07,Street - next to the curbside,no,no,Rear,0,4.0,yes,no,2.0,no,no,3.0
+267,7f7d6c0d-07ac-4465-bdb1-7646df716929,"Avenida Prolongación Tecnológico
+Puebla de Zaragoza PUE 72220
+MX",2022-11-09 21:03:58 UTC,Pedro Contreras,Pedro Contreras,SRID=4326;POINT(-98.1701053028 19.0724586602),19.0724586602,-98.1701053028,15:01,SN-22-290,5,Sales & delivery,SUV,1,no,Nonfood,1 Photo,15:03,Street - next to the curbside,yes,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+268,1c566bed-bbc4-47a7-88d2-8d00dc535bcf,"11 Avenida Aquiles Serdán
+San Bernardino Tlaxcalancingo PUE 72836
+MX",2022-11-09 21:00:32 UTC,Luis Lara,Luis Lara,SRID=4326;POINT(-98.2500988339 19.0307618352),19.0307618352,-98.2500988339,14:45,TME-046,Tecate ,Delivery,Heavy duty truck,2,no,"Alcoholic beverages (beer, liquor, etc.)",1 Photo,14:59,Street - next to the curbside,no,no,Rear,2,1.0,yes,no,2.0,no,no,3.0
+269,8f7775ce-161e-47ae-8f03-063ecac52fc8,"2 Avenida Venustiano Carranza
+San Bernardino Tlaxcalancingo PUE 72836
+MX",2022-11-09 20:57:52 UTC,Juan Pablo Spínola,Juan Pablo Spínola,SRID=4326;POINT(-98.2498263765 19.0307312402),19.0307312402,-98.2498263765,14:48,SP45032,5,Delivery,Light truck or Van,1,yes,Produce (fruits & vegetables),1 Photo,14:57,Store's garage,no,no,Rear,0,1.0,yes,no,2.0,no,no,3.0
+270,d39f0ba1-02e9-4530-8c7d-3bc21f595a8b,"501 Avenida las Margaritas
+Puebla de Zaragoza PUE 72450
+MX",2022-11-09 20:52:03 UTC,Saúl Cuervo,Saúl Cuervo,SRID=4326;POINT(-98.2210329083 19.014630192),19.014630192,-98.2210329083,13:50,RX-55-661,Bimbo,Delivery,Light truck or Van,1,no,"Bakery (bread, cookies, cakes, etc.)",1 Photo,14:15,Street - next to the curbside,no,no,Rear,1,4.0,no,no,2.0,no,yes,2.0
+271,6d2ada32-9b18-44e0-97e6-97338e174994,"42 Avenida Adolfo López Mateos
+Puebla de Zaragoza PUE 72210
+MX",2022-11-09 20:44:48 UTC,Pedro Contreras,Pedro Contreras,SRID=4326;POINT(-98.1744661668 19.0747364535),19.0747364535,-98.1744661668,14:41,TYR-35-52,5,Delivery,Light truck or Van,2,no,Produce (fruits & vegetables),1 Photo,16:00,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+272,227091c9-d136-428b-b0dd-f205f0675832,"164–1626 Avenida Venustiano Carranza
+San Bernardino Tlaxcalancingo PUE 72835
+MX",2022-11-09 20:43:23 UTC,Juan Pablo Spínola,Juan Pablo Spínola,SRID=4326;POINT(-98.2490972742 19.0251680226),19.0251680226,-98.2490972742,14:29,SP29776,Gamesa,Delivery,Light truck or Van,1,no,"Bakery (bread, cookies, cakes, etc.)",1 Photo,14:35,Street - next to the curbside,no,no,Side,0,1.0,no,no,2.0,no,no,3.0
+273,02fdc4b9-3d48-42db-8f53-dfca7d8972c0,"47 Avenida Citlaltépetl
+Puebla de Zaragoza PUE 72210
+MX",2022-11-09 20:37:51 UTC,Pedro Contreras,Pedro Contreras,SRID=4326;POINT(-98.1735500735 19.0744410853),19.0744410853,-98.1735500735,14:35,239-DV-3,Pitic,Sales & delivery,Heavy duty truck,2,no,"Paper Goods (paper towels, toilet paper, etc.)",1 Photo,14:45,Street - next to the curbside,no,no,Rear,0,4.0,yes,no,2.0,no,no,3.0
+274,df4c1636-1fd6-4787-a0b6-f92a5042177a,"65 Calle General Lázaro Cárdenas
+Puebla de Zaragoza PUE 72210
+MX",2022-11-09 20:35:07 UTC,Pedro Contreras,Pedro Contreras,SRID=4326;POINT(-98.172453718 19.0744117775),19.0744117775,-98.172453718,14:18,758-DE-7,Grumavy,Delivery,Heavy duty truck,5,no,Metal,1 Photo,14:50,Street - next to the curbside,no,no,Rear,0,4.0,yes,no,2.0,no,no,3.0
+275,febd53d0-6c61-4512-9fd6-99a096894d04,"1–27 Avenida Malintzi
+Puebla de Zaragoza PUE 72210
+MX",2022-11-09 20:27:08 UTC,Pedro Contreras,Pedro Contreras,SRID=4326;POINT(-98.1708208659 19.0761653055),19.0761653055,-98.1708208659,14:24,XE-6383-A,Fastenal,Sales (usually small car or motorcycle),Pick-up,1,no,Tools ,1 Photo,14:26,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+276,68fd022b-56cf-40f1-b34c-e9a77d6cc466,"2213 Calle Cordillera Central
+Puebla de Zaragoza PUE 72220
+MX",2022-11-09 18:58:55 UTC,Pedro Contreras,Pedro Contreras,SRID=4326;POINT(-98.1672783383 19.0721686464),19.0721686464,-98.1672783383,12:51,TNH-542-B,5,Sales & delivery,Automobile,1,no,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,12:52,Street - next to the curbside,no,no,Rear,0,4.0,yes,no,2.0,no,no,3.0
+277,5b02a047-35ed-4b67-b063-4f095bba9b14,"2218–2234 Calle Cordillera Central
+Puebla de Zaragoza PUE 72220
+MX",2022-11-09 18:48:24 UTC,Pedro Contreras,Pedro Contreras,SRID=4326;POINT(-98.1669909229 19.0719752759),19.0719752759,-98.1669909229,12:40,XWA-636-A,Coca-Cola,Sales (usually small car or motorcycle),Automobile,1,no,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,12:41,Street - next to the curbside,no,no,Side,0,4.0,no,no,2.0,no,no,3.0
+278,faaa3bf6-0aa1-4ad9-9395-77e654228cc2,"9006 Avenida Montes Urales
+Puebla de Zaragoza PUE 72220
+MX",2022-11-09 18:39:13 UTC,Pedro Contreras,Pedro Contreras,SRID=4326;POINT(-98.1665766892 19.0720751882),19.0720751882,-98.1665766892,12:32,SN-29-824,5,Sales & delivery,Light truck or Van,1,no,Produce (fruits & vegetables),1 Photo,12:34,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+279,c43d8722-97dc-4750-8d11-e1922aef3f7e,"2218–2234 Calle Cordillera Central
+Puebla de Zaragoza PUE 72220
+MX",2022-11-09 18:34:06 UTC,Eduardo Zárate,Eduardo Zárate,SRID=4326;POINT(-98.166975953 19.071961034),19.071961034,-98.166975953,12:24,WZ-5819-A,5,Delivery,Light truck or Van,2,yes,Hielo ,1 Photo,12:25,Street - next to the curbside,no,no,Side,1,4.0,no,no,2.0,no,no,3.0
+280,ea61b3cb-ddd8-4400-a17b-22f183d60223,"9002–9026 Avenida Montes Urales
+Puebla de Zaragoza PUE 72220
+MX",2022-11-09 18:13:31 UTC,Pedro Contreras,Pedro Contreras,SRID=4326;POINT(-98.1667017056 19.071999466),19.071999466,-98.1667017056,12:04,9607E2,JUMEX,Sales & delivery,Motorcycle,1,no,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,12:05,Street - next to the curbside,no,no,Side,0,4.0,no,no,2.0,no,no,3.0
+281,ae8ea7eb-e3f3-4d44-926e-6205f04cf6e5,"8811A Avenida Montes Urales
+Puebla de Zaragoza PUE 72220
+MX",2022-11-09 18:08:28 UTC,Pedro Contreras,Diego Galicia Lugo,SRID=4326;POINT(-98.1677300391 19.0706946049),19.0706946049,-98.1677300391,11:47,SN-29-117,Pringles,Sales & delivery,SUV,1,no,"Chips,Nonfood",1 Photo,11:50,Street - next to the curbside,no,no,Rear,0,1.0,yes,no,2.0,no,no,3.0
+282,0175f6b2-5e39-4d17-be7b-5f22ce81d18a,"2034B Calle Cordillera de los Alpes
+Heroica Puebla de Zaragoza Puebla 72220
+México",2022-11-09 17:39:27 UTC,Alejandro Matias,Alejandro Matias,SRID=4326;POINT(-98.1676052 19.0754693),19.0754693,-98.1676052,10:45,XY-38-302,Pepsi,Sales & delivery,Heavy duty truck,2,no,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,11:10,Street - next to the curbside,no,no,Side,0,4.0,yes,no,2.0,no,no,3.0
+283,761b4bb0-19e3-4bd1-bd86-3f09f7c2d894,"9022 Sierra Morena
+Heroica Puebla de Zaragoza Puebla 72220
+México",2022-11-09 17:39:26 UTC,Alejandro Matias,Alejandro Matias,SRID=4326;POINT(-98.1656903 19.0724087),19.0724087,-98.1656903,10:44,SN-17-510,Danone,Sales & delivery,Light truck or Van,1,yes,"Dairy (milk, cheese, etc.)",1 Photo,10:47,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+284,8ae3f454-a90d-4b89-be8c-c5a3e165cab8,"2421 Cord. del Pindo
+Heroica Puebla de Zaragoza Puebla 72220
+México",2022-11-09 17:39:26 UTC,Alejandro Matias,Alejandro Matias,SRID=4326;POINT(-98.1667233 19.0701709),19.0701709,-98.1667233,10:23,No,Coca Cola,Delivery,Heavy duty truck,2,no,"Dairy (milk, cheese, etc.)",1 Photo,10:30,Street - next to the curbside,no,no,Side,1,4.0,yes,no,2.0,no,no,3.0
+285,11dfd3f0-8a5d-4d2a-b2b9-570781fc9dbe,"9002 Avenida Montes Urales
+Heroica Puebla de Zaragoza Puebla 72220
+México",2022-11-09 17:39:25 UTC,Alejandro Matias,Alejandro Matias,SRID=4326;POINT(-98.166637 19.0718907),19.0718907,-98.166637,09:37,23J 237,Lala,Delivery,Light truck or Van,1,yes,"Dairy (milk, cheese, etc.)",1 Photo,09:49,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+286,db46f0d4-590e-415f-9a36-fd4c105055c5,"Avenida Unidad Deportiva
+Puebla de Zaragoza PUE 72220
+MX",2022-11-09 17:27:16 UTC,Pedro Contreras,Pedro Contreras,SRID=4326;POINT(-98.1643093243 19.0733588603),19.0733588603,-98.1643093243,11:24,TZW-91-27,NONE,Sales & delivery,Automobile,1,no,"Non-alcoholic beverages (water, soda, etc.)",1 Photo,11:25,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+287,10d9ef84-7845-4d25-883d-e403a4fcd2ed,"2404 Calle Cordillera de los Balcanes
+Puebla de Zaragoza PUE 72220
+MX",2022-11-09 16:51:26 UTC,Pedro Contreras,Pedro Contreras,SRID=4326;POINT(-98.1659305166 19.0726300372),19.0726300372,-98.1659305166,10:44,TE-5804-G,La Costeña,Delivery,Light truck or Van,1,no,"Nonfood,Other",1 Photo,10:46,Street - next to the curbside,no,no,Side,0,4.0,no,no,2.0,no,no,3.0
+288,547b7345-f8ac-4b79-838b-f8da6bdd2f86,"9053–9057 Avenida Montes Urales
+Puebla de Zaragoza PUE 72220
+MX",2022-11-09 16:30:44 UTC,Eduardo Zárate,Eduardo Zárate,SRID=4326;POINT(-98.1653153945 19.073614697),19.073614697,-98.1653153945,10:18,SN-29-117,Crunch-It,Delivery,Pick-up,1,no,"Bakery (bread, cookies, cakes, etc.)",1 Photo,10:19,Street - next to the curbside,no,no,Rear,1,4.0,no,no,2.0,no,no,3.0
+289,c945b9ea-fa24-44f9-bc41-dc0fd492164b,"9053–9057 Avenida Montes Urales
+Puebla de Zaragoza PUE 72220
+MX",2022-11-09 16:30:44 UTC,Eduardo Zárate,Eduardo Zárate,SRID=4326;POINT(-98.1652930197 19.0736508138),19.0736508138,-98.1652930197,10:16,23J-237,LaLa,Delivery,Light truck or Van,2,yes,"Dairy (milk, cheese, etc.)",1 Photo,10:27,Street - next to the curbside,no,no,Rear,1,4.0,no,no,2.0,no,no,3.0
+290,b267f7e4-5e7e-4a27-85ea-0ca4b25f9a87,"2404 Calle Cordillera Central
+Puebla de Zaragoza PUE 72220
+MX",2022-11-09 15:42:16 UTC,Eduardo Zárate,Eduardo Zárate,SRID=4326;POINT(-98.1667056879 19.071857551),19.071857551,-98.1667056879,09:36,SN-17-510,Danone,Delivery,Light truck or Van,1,yes,"Dairy (milk, cheese, etc.)",1 Photo,09:46,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+291,0c549067-d6d6-4137-bf3c-7abbe6c44901,"84 Avenida Teziutlán Norte
+Puebla de Zaragoza PUE 72160
+MX",2022-11-07 22:41:09 UTC,Jorge Alberto Ostorga Flores,Jorge Alberto Ostorga Flores,SRID=4326;POINT(-98.2254263603 19.0581423267),19.0581423267,-98.2254263603,15:15,SM46579,no,Delivery,Pick-up,2,no,Produce (fruits & vegetables),1 Photo,15:32,Street - next to the curbside,no,no,Rear,1,4.0,yes,no,2.0,no,no,3.0
+292,0390c1cf-cd81-423e-8c9d-fdf2d4fca170,"6 Avenida 5 Poniente
+Puebla PUE 72000
+MX",2022-11-03 17:54:57 UTC,José Oropeza,José Oropeza,SRID=4326;POINT(-98.2005907028 19.0435135414),19.0435135414,-98.2005907028,11:32,TTV-378-A,5,Delivery,Automobile,1,no,Produce (fruits & vegetables),1 Photo,11:35,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+293,c6487edc-4e83-4879-8587-69290726749a,1,2022-11-03 17:54:57 UTC,José Oropeza,José Oropeza,SRID=4326;POINT(-98.1959056349 19.0441463323),19.0441463323,-98.1959056349,10:55,SP-38-651,5,Delivery,Light truck or Van,2,no,Junk food,1 Photo,11:15,Street - next to the curbside,no,no,Rear,1,4.0,no,no,2.0,no,no,3.0
+294,f964004e-67a0-4b75-b2b0-ce04b9f0b344,1,2022-11-03 17:54:56 UTC,José Oropeza,José Oropeza,SRID=4326;POINT(-98.194933077 19.043612116),19.043612116,-98.194933077,10:36,HL-3785-F,5,Delivery,Light truck or Van,1,no,"Bakery (bread, cookies, cakes, etc.)",1 Photo,11:00,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+295,5656a189-19f5-45a7-b53b-1a3db0de6571,1,2022-11-03 17:54:56 UTC,José Oropeza,José Oropeza,SRID=4326;POINT(-98.1948560508 19.0436070826),19.0436070826,-98.1948560508,10:33,SP-29-798,5,Delivery,Light truck or Van,1,no,"Bakery (bread, cookies, cakes, etc.)",1 Photo,10:50,Street - next to the curbside,no,no,Side,0,4.0,no,no,2.0,no,no,3.0
+296,bcbd462b-4c63-490b-bfec-0ef6657ead73,"406-B Avenida 2 Oriente
+Puebla PUE 72000
+MX",2022-11-03 17:54:44 UTC,Emilio Garza,Emilio Garza,SRID=4326;POINT(-98.1945033093 19.043335537),19.043335537,-98.1945033093,11:19,05-AP-6G,Infra,Delivery,Light truck or Van,1,no,Gas,1 Photo,11:21,Street - next to the curbside,no,no,Rear,1,4.0,no,no,2.0,no,no,3.0
+297,cd9ba76d-d899-4d87-9512-486aedb1b149,"402E Avenida 2 Oriente
+Puebla PUE 72000
+MX",2022-11-03 17:14:09 UTC,Emilio Garza,Emilio Garza,SRID=4326;POINT(-98.1948728731 19.0435760418),19.0435760418,-98.1948728731,11:03,LE-88-707,Alpura ,Delivery,Pick-up,2,yes,"Dairy (milk, cheese, etc.)",1 Photo,11:04,Street - next to the curbside,no,no,Rear,0,4.0,no,no,2.0,no,no,3.0
+298,657541f6-7871-4165-80b2-bef59db83e18,"402 Avenida 2 Oriente
+Puebla PUE 72000
+MX",2022-11-03 17:14:09 UTC,Emilio Garza,Emilio Garza,SRID=4326;POINT(-98.1949010531 19.043589516),19.043589516,-98.1949010531,11:00,HL-3785-F,Bimbo,Delivery,Pick-up,2,no,"Bakery (bread, cookies, cakes, etc.),Produce (fruits & vegetables)",1 Photo,11:08,Street - next to the curbside,yes,no,Rear,1,4.0,no,no,2.0,no,no,3.0
